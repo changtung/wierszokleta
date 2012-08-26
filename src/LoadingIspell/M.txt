@@ -1,0 +1,96 @@
+	 A	>	-A,O
+
+# dope³niacz lp.:
+	[^BCDFH£MNPRSTWZ¯] A	>	-A,I	#aborcja, balanga, 
+						#!barakuda, !akcyza,
+						#!baletnica...
+	[BCDFH£MPRSTWZ¯] A	>	-A,Y	#barakuda
+	C		>	Y		#Wielkanoc
+	[^E¦] Æ		>	-Æ,CI		#!lito¶æ !p³eæ
+	[^H£] E Æ	>	-Æ,CI
+	[H£] E Æ	>	-EÆ,CI		#p³acheæ, p³eæ
+	[^E] ¦ Æ	>	-Æ,CI		#lito¶æ
+	[^Z] E ¦ Æ	>	-Æ,CI		#rêkoje¶æ
+	Z E ¦ Æ		>	-E¦Æ,CI		#cze¶æ
+	[^E] Ñ		>	-Ñ,NI		#ba¶ñ
+	[^D] E Ñ	>	-Ñ,NI		#jesieñ
+	D E Ñ		>	-EÑ,NI		#bezdeñ
+	[^¡] ¯		>	Y		#poda¿
+	¡ ¯		>	-¡¯,Ê¯Y		#uprz±¿
+	[^S] Z		>	Y		#smycz
+	[^E] S Z	>	Y
+	E S Z		>	-ESZ,SZY	#wesz
+	N A		>	-A,Y
+	[GK] I E W	>	-IEW,WI		#chor±giew, brukiew
+	[HNT] E W	>	-EW,WI		#marchew, konew, kotew
+	[^Ó] L		>	I
+	Ó L		>	-ÓL,OLI		#sól
+	[^¡D] ¬		>	-¬,ZI		#kad¼
+	[^¡Ó] D ¬	>	-¬,ZI
+	Ó D ¬		>	-ÓD¬,ODZI	#³ód¼
+	¡ D ¬		>	-¡D¬,ÊDZI	#¿o³±d¼
+	¡ ¬		>	-¡¬,ÊZI		#ga³±¼
+	R E W		>	-EW,WI		#brew
+	[^E] ¦		>	-¦,SI		#gê¶
+	[^I] E ¦	>	-¦,SI
+	[^W] I E ¦	>	-¦,SI		#przycie¶
+	W I E ¦		>	-IE¦,SI		#wie¶
+	J		>	-J,I		#kolej
+	P		>	I		#sz³ap
+	
+# celownik lp.:
+	[^CDGHIJKL£NRTZ¯] A	>	-A,IE	#mama, !amatorszczyzna
+	[^SZ] N A		>	-A,IE		#kwarantanna
+	[^Z] D A		>	-A,ZIE		#porada
+	[^A] Z D A		>	-ZDA,¬DZIE	#bruzda
+	A Z D A			>	-AZDA,E¬DZIE	#jazda
+	G A			>	-GA,DZE
+	C H A			>	-CHA,SZE	#jucha
+	[^AC] H A		>	-HA,¯E		#duha
+	A H A			>	-HA,SZE		#wataha
+	K A			>	-KA,CE
+	[^£S] £ A		>	-£A,LE
+	S £ A			>	-S£A,¦LE
+	£ £ A			>	-££A,LLE
+	[^A] R A 		>	-A,ZE		#opera, !wiara
+	[^I] A R A		>	-A,ZE		#kopara
+	[^FMW] I A R A		>	-A,ZE
+	[FMW] I A R A		>	-ARA,ERZE	#miara, wiara, ofiara
+	[^CS] Z N A		>	-ZNA,¬NIE	#mielizna
+	S Z N A			>	-A,IE		#moszna
+	S N A			>	-SNA,¦NIE	#wiosna
+	[^S] T A		>	-TA,CIE		#akwaforta !asysta
+	[^A] S T A		>	-STA,¦CIE	#asysta
+	[^I] A S T A		>	-STA,¦CIE	#omasta
+	[^W] I A S T A		>	-STA,¦CIE
+	W I A S T A		>	-ASTA,E¦CIE	#niewiasta
+	[^CDRS] Z A		>	-A,IE		#geneza, kabza
+#	[CDRS] Z A	>	-A,Y		#dacza, brosza, w³adza, burza
+#						jest ju¿ w dope³niaczu
+	
+# biernik lp.:
+	A		>	-A,Ê
+	[YI] N I	>	Ê		#gospodyni
+
+# narzêdnik lp.:
+	A		>	-A,¡
+	C		>	¡
+	[^E¦] Æ		>	-Æ,CI¡		#!lito¶æ !p³eæ
+	[^H£] E Æ	>	-Æ,CI¡
+	[H£] E Æ	>	-EÆ,CI¡		#p³acheæ, p³eæ
+	[^E] ¦ Æ	>	-Æ,CI¡		#lito¶æ
+	[^Z] E ¦ Æ	>	-Æ,CI¡		#rêkoje¶æ
+	Z E ¦ Æ		>	-E¦Æ,CI¡	#cze¶æ
+	Ñ		>	-Ñ,NI¡
+	¯		>	¡
+	[^S] Z		>	¡
+	[^E] S Z	>	¡
+	E S Z		>	-ESZ,SZ¡	#wesz
+	[^Ó] L		>	¡
+	Ó L		>	-ÓL,OL¡
+	[GK] I E W	>	-IEW,WI¡
+	[RT] E W	>	-EW,WI¡		#brew, p³atew
+	[YI] N I	>	¡
+	[^D] ¬		>	-¬,ZI¡		#ma¼
+	[^Ó] D ¬	>	-¬,ZI¡		#spad¼
+	Ó D ¬		>	-ÓD¬,ODZI¡	#powód¼

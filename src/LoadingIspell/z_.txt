@@ -1,0 +1,65 @@
+
+	E C H		>	-ECH,CHY	#mech
+	I E P		>	-IEP,PY		#kiep
+	[^I] E R	>	-ER,RY		#skafander
+	I E R		>	-IER,RY		#bunkier
+	I E S		>	-IES,SY		#pies
+	[^I] E N	>	-EN,NY		#sen
+	[^I] E L	>	-EL,LE		#szwindel
+	I E £		>	-IE£,£Y		#kie³, szczygie³
+	I E L		>	-IEL,LE		#magiel
+	[GP] I E Ñ	>	-IEÑ,NIE	#pieñ
+	C I E Ñ		>	-CIEÑ,TNIE	#kwiecieñ
+	[^I] E K	>	-EK,KI		#bo¿ek
+	C I E K		>	-CIEK,ÆKI	#bociek
+	N I E K		>	-NIEK,ÑKI	#pieniek, ogieniek
+	S I E K		>	-SIEK,¦KI	#misiek
+	I E Z		>	-IEZ,ZY		#giez
+	[^I] E Z	>	-EZ,ZY		
+	[^R] Z E £	>	-E£,£Y		#wêze³
+	R Z E £		>	-ZE£,£Y		#orze³
+	[CS] Z E C	>	-EC,CE		#³yszczec, g³uszec
+	R Z E C		>	-ZEC,CE		#dworzec
+	¯ E £		>	-E£,£Y		#wy¿e³
+	[DJLP¯] E C	>	-EC,CE		#dzioboro¿ec, bywalec, kapec, kojec, ose³edec
+	[^CNSZ] I E C	>	-IEC,CE		#szczerbiec
+	C I E C		>	-CIEC,ÆCE	#kosaciec, ko¶ciec
+	N I E C		>	-NIEC,ÑCE	#biedrzeniec
+	S I E C		>	-SIEC,¦CE	#brzusiec
+	Z I E C		>	-ZIEC,¬CE	#bodziec
+	Ó B R		>	-ÓBR,OBRY	#bóbr
+	Ó R G		>	-ÓRG,ORGI	#mórg
+	Ó G		>	-ÓG,OGI		#z³óg
+	Ó B		>	-ÓB,OBY		#nierób
+	Ó Z		>	-ÓZ,OZY		#wóz
+	Ó ¯		>	-Ó¯,O¯E		#nó¿
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIE	#gwó¼d¼
+	Ó L		>	-ÓL,OLE		#mól
+	Ó £		>	-Ó£,O£Y		#wó³
+	Ó J		>	-ÓJ,OJE		#s³ój
+	Ó D		>	-ÓD,ODY		#korowód
+	Ó D Z		>	-ÓDZ,ODZE	#?
+	Ó R		>	-ÓR,ORY		#bór
+	Ó T		>	-ÓT,OTY		#ko³owrót
+	Ó W		>	-ÓW,OWY		#cudzys³ów
+	¡ B		>	-¡B,ÊBY		#d±b
+#	¡ C		>	-¡C,ÊCE		#
+	¡ D		>	-¡D,ÊDY		#b³±d
+	¡ G		>	-¡G,ÊGI		#kr±g
+	¡ Z		>	-¡Z,ÊZY		#paw±z
+	¡ ¯		>	-¡¯,Ê¯E		#w±¿
+	E B		>	-EB,BY		#³eb
+	[^I] E Æ	>	-EÆ,CIE		#kapeæ
+	I E Æ		>	-IEÆ,CIE	#³okieæ
+	E P		>	-EP,PY		#pó³wysep
+	E S T		>	-EST,TY		#chrzest
+	E T		>	-ET,TY		#ocet
+	E W		>	-EW,WY		#lew
+	[^IZ] E £	>	-E£,£Y		#diabe³
+	D Z I E Ñ	>	-ZIEÑ,NIE	#dzieñ
+	S I E Ñ		>	-SIEÑ,¦NIE	#wrzesieñ
+	[RTZ¯] E Ñ	>	-EÑ,NIE		#dureñ, t³uczeñ, s±¿eñ
+	C I O £		>	-CIO£,T£Y	#kocio³
+	Z I O £		>	-ZIO£,Z£Y	#kozio³
+	S I O £		>	-IO£,£Y		#osio³
+	N S		>	E		#konwenans

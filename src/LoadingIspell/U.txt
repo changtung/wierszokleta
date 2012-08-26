@@ -1,0 +1,43 @@
+	O		>	-O,A		#abecad³o -> abecad³a
+	E		>	-E,A		#zdjêcie
+	[^I] Ê		>	CIA		#cielê
+	M I Ê		>	-Ê,ENIA		#brzemiê
+	[^M] I Ê	>	CIA		#bocianiê, ch³opiê
+	
+# celownik lp.:
+	O		>	-O,U
+	E		>	-E,U
+	[^I] Ê		>	CIU
+	M I Ê		>	-Ê,ENIU		#ramiê, brzemiê
+	[^M] I Ê	>	CIU		#bocianiê, ch³opiê
+
+# narzêdnik lp.:
+	[^GK] O		>	-O,EM		#!szkie³ko
+	E		>	M
+	[GK] O		>	-O,IEM
+	[^I] Ê		>	CIEM
+	M I Ê		>	-Ê,ENIEM
+	[^M] I Ê	>	CIEM
+	
+# miejscownik lp.:
+	[^ASTZ] £ O	>	-£O,LE		#abecad³o !cia³o
+	A £ O		>	-A£O,ELE	#cia³o
+	S £ O		>	-S£O,¦LE	#has³o
+	Z £ O		>	-Z£O,¬LE	#z³o, giez³o
+	[^A] T £ O	>	-T£O,TLE
+	A T £ O		>	-AT£O,ETLE	#¶wiat³o
+	[MWZ] O		>	-O,IE		#amatorstwo
+	S M O		>	-SMO,¦MIE	#pasmo, pismo
+	[^Z] N O	>	-O,IE
+	Z N O		>	-ZNO,¬NIE	#kie³zno
+	[^AST] T O	>	-TO,CIE		#auto
+	T T O		>	-O,CIE		#alegretto
+	A S T O		>	-ASTO,E¦CIE	#ciasto
+	[^L] A T O	>	-TO,CIE
+	L A T O		>	-ATO,ECIE	#lato
+#	[KI] O		>	-O,U		#ciastko, radio	- jak celownik
+	R O		>	-O,ZE		#bajoro
+	[^Z] D O	>	-O,ZIE		#cudo
+	[^A] Z D O	>	-O,ZIE		#
+	A Z D O		>	-AZDO,E¬DZIE	#gniazdo
+#	I Ê		>	CIU		#dzieciê - jak celownik

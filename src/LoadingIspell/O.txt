@@ -1,0 +1,52 @@
+	[^ÆÑO¦¬]	>	A		#komputer
+	Æ		>	-Æ,CIA		#go¶æ
+	Ñ		>	-Ñ,NIA		#cieñ
+	O		>	-O,A		#apollo
+	¦		>	-¦,SIA		#gogu¶
+	¬		>	-¬,ZIA		#knia¼
+	
+# celownik lp.:
+	[^ÆÑO¦T¬]	>	OWI
+	Æ		>	-Æ,CIOWI
+	Ñ		>	-Ñ,NIOWI
+	[^I] O		>	-O,U
+	I O		>	WI
+	¦		>	-¦,SIOWI
+	¬		>	-¬,ZIOWI
+	[^A] T		>	OWI
+	[^I] A T	>	OWI
+	[^W] I A T	>	OWI
+	[^¦] W I A T	>	OWI
+	¦ W I A T	>	U
+	
+# biernik lp. == dope³niacz lp.
+
+# narzêdnik lp.:
+	[^ÆGKÑO¦¬]	>	EM
+	[GK]		>	IEM
+	Æ		>	-Æ,CIEM
+	Ñ		>	-Ñ,NIEM
+	O		>	-O,EM
+	¦		>	-¦,SIEM
+	¬		>	-¬,ZIEM
+	
+# miejscownik lp.:
+	[^CÆDGHJKL£ÑOR¦TZ¯¬]	>	IE
+	[^Z] D		>	ZIE
+	O Z D		>	-ZD,¬DZIE	#drozd
+	[CGHJKL¯]	>	U
+	[AU] Z		>	IE
+	[^AU] Z		>	U
+	R		>	ZE
+	[^S] T		>	-T,CIE
+	S T		>	-ST,¦CIE
+	N I O £		>	-O£,ELE
+	[^N] [^I] . £	>	-£,LE
+	[^N] I [^£] £	>	-£,LE
+	I £ £		>	-££,LLE
+	Æ		>	-Æ,CIU
+	Ñ		>	-Ñ,NIU
+#	[^I] O		>	-O,U		jak celownik
+	I O		>	-O,U
+	¦		>	-¦,SIU
+	¬		>	-¬,ZIU

@@ -1,0 +1,69 @@
+	U M		>	-UM,A
+	[^I] Ê		>	TA		#zwierzê
+	M I Ê		>	-Ê,ONA
+	[^M] I Ê	>	TA
+#	[DHKN] O	>	-O,A		#jak dop. l.p.
+	
+# dope³niacz lm.:
+	[^AZ] D O	>	-O,ÓW		#cudo
+	[AZ] D O	>	-O,-		#gniazdo
+	C H O		>	-O,-		#ciacho
+	[^AEGKO] £ O	>	-£O,E£		#abecad³o
+	[AE] £ O	>	-£O,£		#dzie³o
+	O £ O		>	-O£O,Ó£		#czo³o
+	[GK] £ O	>	-£O,IE£		#szk³o, ciêg³o
+	[^BCDJL£MNÑPRTWZ¯] K O	>	-KO,K	#boisko
+	[BCDJL£MNPRTWZ¯] K O	>	-KO,EK	#bia³ko
+	Ñ K O		>	-ÑKO,NIEK	#cudeñko
+	L Ê		>	-Ê,¡T		#ko¼lê
+	[EOR] C I E	>	-E,-		#nadburcie, starocie, dwulecie
+	Ê C I E 	>	-CIE,Æ		#zdjêcie
+	[^DK] N I E	>	-NIE,Ñ		#brzmienie
+	[DK] N I E	>	-E,-		#podoknie, po³udnie
+	U M		>	-UM,ÓW
+	[^Ê] T O	>	-TO,T		#auto
+	[^P] Ê T O	>	-ÊTO,¡T		#¶wiêto
+	P Ê T O		>	-O,-		#pêto
+	¯ E		>	-E,Y 		#bezdro¿e ???
+	[CR] Z E	>	-E,Y		#bo¿yszcze ???	podwórze
+	[^I] Ê		>	-Ê,¡T		#zwierzê
+	M I Ê		>	-Ê,ON		#brzemiê
+	[^M] I Ê	>	-Ê,¡T		#jagniê, bli¼niê, ch³opiê
+	[^BDHT] [MRW] O	>	-O,-		#arcybiskupstwo
+	T W O		>	-O,-		#³ucznictwo
+	[DHT] R O	>	-RO,ER		#biodro
+	[^O] B R O	>	-RO,ER		#srebro, ¿ebro
+	O B R O		>	-OBRO,ÓBR	#dobro
+	[GKW] N O	>	-NO,IEN		#bagno, okno, drewno
+	D N O		>	-NO,EN		#dno
+	I N O		>	-O,-		#domino
+	O N O		>	-O,-		#bierwiono
+	[BMPWZ] I E	>	-E,-		#bezkrólewie
+	[SW] C E	>	-E,-		#drzewce, miejsce
+	L E		>	-E,I		#przedszkole
+
+# celownik lm.:
+	O		>	M
+	E		>	-E,OM
+	U M		>	-UM,OM
+	[^I] Ê		>	TOM		#zwierzê
+	M I Ê		>	-Ê,ONOM
+	[^M] I Ê	>	TOM
+
+# biernik lm. == mianownik lm.
+
+# narzêdnik lm.:
+	O		>	-O,AMI
+	E		>	-E,AMI
+	U M		>	-UM,AMI
+	[^I] Ê		>	TAMI		#zwierzê
+	M I Ê		>	-Ê,ONAMI
+	[^M] I Ê	>	TAMI
+
+# miejscownik lm.:	
+	O		>	-O,ACH
+	E		>	-E,ACH
+	U M		>	-UM,ACH
+	[^I] Ê		>	TACH		#zwierzê
+	M I Ê		>	-Ê,ONACH
+	[^M] I Ê	>	TACH

@@ -1,0 +1,349 @@
+	L E C			>	-EC,OKÊ		#wlec (35)
+	L E C			>	ZESZ
+	L E C			>	ZE
+	L E C			>	ZEMY
+	L E C			>	ZECIE
+	L E C			>	-EC,OK¡
+
+	U C			>	-C,KÊ		#t³uc
+	U C			>	ZESZ
+	U C			>	ZE
+	U C			>	ZEMY
+	U C			>	ZECIE
+	U C			>	-C,K¡
+	
+	[^S] B A Æ		>	-AÆ,IÊ		#dziobaæ (70)
+	[^S] B A Æ		>	-AÆ,IESZ
+	[^S] B A Æ		>	-AÆ,IE
+	[^S] B A Æ		>	-AÆ,IEMY
+	[^S] B A Æ		>	-AÆ,IECIE
+	[^S] B A Æ		>	-AÆ,I¡
+
+	Z D A Æ			>	-ZDAÆ,¯D¯Ê		#gwizdaæ (63)
+	Z D A Æ			>	-ZDAÆ,¯D¯ESZ
+	Z D A Æ			>	-ZDAÆ,¯D¯E
+	Z D A Æ			>	-ZDAÆ,¯D¯EMY
+	Z D A Æ			>	-ZDAÆ,¯D¯ECIE
+	Z D A Æ			>	-ZDAÆ,¯D¯¡
+
+	£ G A Æ			>	-GAÆ,¯Ê		#³gaæ (64)
+	£ G A Æ			>	-GAÆ,¯ESZ
+	£ G A Æ			>	-GAÆ,¯E
+	£ G A Æ			>	-GAÆ,¯EMY
+	£ G A Æ			>	-GAÆ,¯ECIE
+	£ G A Æ			>	-GAÆ,¯¡
+
+	E C H A Æ		>	-ECHAÆ,ADÊ		#jechaæ (71)
+	E C H A Æ		>	-CHAÆ,DZIESZ
+	E C H A Æ		>	-CHAÆ,DZIE
+	E C H A Æ		>	-CHAÆ,DZIEMY
+	E C H A Æ		>	-CHAÆ,DZIECIE
+	E C H A Æ		>	-ECHAÆ,AD¡
+
+	[IL] A Æ		>	-AÆ,EJÊ		#¶miaæ siê, chlaæ (52)
+	[IL] A Æ		>	-AÆ,EJESZ
+	[IL] A Æ		>	-AÆ,EJE
+	[IL] A Æ		>	-AÆ,EJEMY
+	[IL] A Æ		>	-AÆ,EJECIE
+	[IL] A Æ		>	-AÆ,EJ¡
+
+	J A Æ			>	-AÆ,Ê		#krajaæ (58)
+	J A Æ			>	-AÆ,ESZ
+	J A Æ			>	-AÆ,E
+	J A Æ			>	-AÆ,EMY
+	J A Æ			>	-AÆ,ECIE
+	J A Æ			>	-AÆ,¡
+
+	K A Æ			>	-KAÆ,CZÊ	#gdakaæ, krakaæ (61)
+	K A Æ			>	-KAÆ,CZESZ
+	K A Æ			>	-KAÆ,CZE
+	K A Æ			>	-KAÆ,CZEMY
+	K A Æ			>	-KAÆ,CZECIE
+	K A Æ			>	-KAÆ,CZ¡
+
+	S £ A Æ			>	-S£AÆ,¦CIELÊ	#pos³aæ, przes³aæ (68)
+	S £ A Æ			>	-S£AÆ,¦CIELESZ
+	S £ A Æ			>	-S£AÆ,¦CIELE
+	S £ A Æ			>	-S£AÆ,¦CIELEMY
+	S £ A Æ			>	-S£AÆ,¦CIELECIE
+	S £ A Æ			>	-S£AÆ,¦CIEL¡
+
+	M A Æ			>	-AÆ,IÊ		#k³amaæ (70)
+	M A Æ			>	-AÆ,IESZ
+	M A Æ			>	-AÆ,IE
+	M A Æ			>	-AÆ,IEMY
+	M A Æ			>	-AÆ,IECIE
+	M A Æ			>	-AÆ,I¡
+
+	¡ P A Æ			>	-AÆ,IE		#k±paæ (70)
+	¡ P A Æ			>	-AÆ,IESZ
+	¡ P A Æ			>	-AÆ,IE
+	¡ P A Æ			>	-AÆ,IEMY
+	¡ P A Æ			>	-AÆ,IECIE
+	¡ P A Æ			>	-AÆ,I¡
+
+	S P A Æ			>	-SPAÆ,¦PIÊ	#spaæ	(96)
+	S P A Æ			>	-SPAÆ,¦PISZ
+	S P A Æ			>	-SPAÆ,¦PI
+	S P A Æ			>	-SPAÆ,¦PIMY
+	S P A Æ			>	-SPAÆ,¦PICIE
+	S P A Æ			>	-SPAÆ,¦PI¡
+
+	[^BP] R A Æ		>	-AÆ,ZÊ		#bazgraæ (60)
+	[^BP] R A Æ		>	-AÆ,ZESZ
+	[^BP] R A Æ		>	-AÆ,ZE
+	[^BP] R A Æ		>	-AÆ,ZEMY
+	[^BP] R A Æ		>	-AÆ,ZECIE
+	[^BP] R A Æ		>	-AÆ,Z¡
+
+	[BP] R A Æ		>	-RAÆ,IORÊ	#praæ, braæ (66)
+	[BP] R A Æ		>	-RAÆ,IERZESZ
+	[BP] R A Æ		>	-RAÆ,IERZE
+	[BP] R A Æ		>	-RAÆ,IERZEMY
+	[BP] R A Æ		>	-RAÆ,IERZECIE
+	[BP] R A Æ		>	-RAÆ,IOR¡
+
+	[^S] S A Æ		>	-AÆ,ZÊ		#czesaæ (60)
+	[^S] S A Æ		>	-AÆ,ZESZ
+	[^S] S A Æ		>	-AÆ,ZE
+	[^S] S A Æ		>	-AÆ,ZEMY
+	[^S] S A Æ		>	-AÆ,ZECIE
+	[^S] S A Æ		>	-AÆ,Z¡
+
+	S S A Æ			>	-AÆ,Ê		#ssaæ (65)
+	S S A Æ			>	-AÆ,IESZ
+	S S A Æ			>	-AÆ,IE
+	S S A Æ			>	-AÆ,IEMY
+	S S A Æ			>	-AÆ,IECIE
+	S S A Æ			>	-AÆ,¡
+
+	[¡OP] T A Æ		>	-TAÆ,CZÊ	#³omotaæ, ch³eptaæ (69)
+	[¡OP] T A Æ		>	-TAÆ,CZESZ
+	[¡OP] T A Æ		>	-TAÆ,CZE
+	[¡OP] T A Æ		>	-TAÆ,CZEMY
+	[¡OP] T A Æ		>	-TAÆ,CZECIE
+	[¡OP] T A Æ		>	-TAÆ,CZ¡
+
+	S T A Æ			>	-AÆ,OJÊ		#odstaæ, dostaæ (95)
+	S T A Æ			>	-AÆ,OISZ
+	S T A Æ			>	-AÆ,OI
+	S T A Æ			>	-AÆ,OIMY
+	S T A Æ			>	-AÆ,OICIE
+	S T A Æ			>	-AÆ,OJ¡
+
+	A W A Æ			>	-WAÆ,JÊ		#nadawaæ -> nadaje (57)
+	A W A Æ 		>	-WAÆ,JESZ
+	A W A Æ			>	-WAÆ,JE
+	A W A Æ			>	-WAÆ,JEMY
+	A W A Æ			>	-WAÆ,JECIE
+	A W A Æ			>	-WAÆ,J¡
+	
+	I W A Æ			>	-IWAÆ,UJÊ	#pomieszkiwaæ - pomieszkuje (55)
+	I W A Æ			>	-IWAÆ,UJESZ
+	I W A Æ			>	-IWAÆ,UJE
+	I W A Æ			>	-IWAÆ,UJEMY
+	I W A Æ			>	-IWAÆ,UJECIE
+	I W A Æ			>	-IWAÆ,UJ¡
+
+	O W A Æ			>	-OWAÆ,UJÊ	#budowaæ -> buduje (53)
+	O W A Æ			>	-OWAÆ,UJESZ	# !chowaæ
+	O W A Æ			>	-OWAÆ,UJE
+	O W A Æ			>	-OWAÆ,UJEMY
+	O W A Æ			>	-OWAÆ,UJECIE
+	O W A Æ			>	-OWAÆ,UJ¡
+
+	Y W A Æ			>	-YWAÆ,UJÊ	#zgadywaæ -> zgaduje (54)
+	Y W A Æ			>	-YWAÆ,UJESZ
+	Y W A Æ			>	-YWAÆ,UJE
+	Y W A Æ			>	-YWAÆ,UJEMY
+	Y W A Æ			>	-YWAÆ,UJECIE
+	Y W A Æ			>	-YWAÆ,UJ¡
+
+	[^CDR] Z A Æ		>	-ZAÆ,¯Ê		#lizaæ, wi±zaæ (59)
+	[^CDR] Z A Æ		>	-ZAÆ,¯ESZ
+	[^CDR] Z A Æ		>	-ZAÆ,¯E
+	[^CDR] Z A Æ		>	-ZAÆ,¯EMY
+	[^CDR] Z A Æ		>	-ZAÆ,¯ECIE
+	[^CDR] Z A Æ		>	-ZAÆ,¯¡
+
+	R Z A Æ			>	-AÆ,EJÊ		#grzaæ (52)
+	R Z A Æ			>	-AÆ,EJESZ
+	R Z A Æ			>	-AÆ,EJE
+	R Z A Æ			>	-AÆ,EJEMY
+	R Z A Æ			>	-AÆ,EJECIE
+	R Z A Æ			>	-AÆ,EJ¡
+
+	[AEY] D ¡ Æ		>	-¡Æ,MÊ		#nad±æ (20)
+	[AEY] D ¡ Æ		>	-¡Æ,MIESZ
+	[AEY] D ¡ Æ		>	-¡Æ,MIE
+	[AEY] D ¡ Æ		>	-¡Æ,MIEMY
+	[AEY] D ¡ Æ		>	-¡Æ,MIECIE
+	[AEY] D ¡ Æ		>	-¡Æ,M¡
+	
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDMÊ	#rozd±æ (20*)
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDMIESZ
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDMIE
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDMIEMY
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDMIECIE
+	[^AEY] D ¡ Æ		>	-D¡Æ,EDM¡
+	
+       	C I ¡ Æ			>	-CI¡Æ,ETNÊ		#rozci±æ (23*)
+       	C I ¡ Æ			>	-CI¡Æ,ETNIESZ
+       	C I ¡ Æ			>	-CI¡Æ,ETNIE
+       	C I ¡ Æ			>	-CI¡Æ,ETNIEMY
+       	C I ¡ Æ			>	-CI¡Æ,ETNIECIE
+       	C I ¡ Æ			>	-CI¡Æ,ETN¡
+
+	G I ¡ Æ			>	-I¡Æ,NÊ		#gi±æ
+	G I ¡ Æ			>	-I¡Æ,NIESZ
+	G I ¡ Æ			>	-I¡Æ,NIE
+	G I ¡ Æ			>	-I¡Æ,NIEMY
+	G I ¡ Æ			>	-I¡Æ,NIECIE
+	G I ¡ Æ			>	-I¡Æ,N¡
+
+	L ¡ Æ			>	-¡Æ,NÊ		#kl±æ
+	L ¡ Æ			>	-¡Æ,NIESZ
+	L ¡ Æ			>	-¡Æ,NIE
+	L ¡ Æ			>	-¡Æ,NIEMY
+	L ¡ Æ			>	-¡Æ,NIECIE
+	L ¡ Æ			>	-¡Æ,N¡
+
+	S N ¡ Æ			>	-¡Æ,Ê
+	S N ¡ Æ			>	-SN¡Æ,¦NIESZ	#cisn±æ (uciskaæ) (6, 8, 9, 10) =
+	S N ¡ Æ			>	-SN¡Æ,¦NIE
+	S N ¡ Æ			>	-SN¡Æ,¦NIEMY
+	S N ¡ Æ			>	-SN¡Æ,¦NIECIE
+	S N ¡ Æ			>	-Æ,-
+
+	Z N ¡ Æ			>	-¡Æ,Ê
+	Z N ¡ Æ			>	-Æ,-
+	Z N ¡ Æ			>	-ZN¡Æ,¬NIESZ    #grzêzn±æ (6, 8, 9) 
+	Z N ¡ Æ			>	-ZN¡Æ,¬NIE
+	Z N ¡ Æ			>	-ZN¡Æ,¬NIEMY
+	Z N ¡ Æ			>	-ZN¡Æ,¬NIECIE
+
+	¯ ¡ Æ			>	-¯¡Æ,E¯NÊ		#ob¿±æ (24*)
+	¯ ¡ Æ			>	-¯¡Æ,E¯NIESZ
+	¯ ¡ Æ			>	-¯¡Æ,E¯NIE
+	¯ ¡ Æ			>	-¯¡Æ,E¯NIEMY
+	¯ ¡ Æ			>	-¯¡Æ,E¯NIECIE
+	¯ ¡ Æ			>	-¯¡Æ,E¯N¡
+
+	D Z I E Æ		>	-DZIEÆ,M	#wiedzieæ (103)
+	D Z I E Æ		>	-DZIEÆ,SZ
+	D Z I E Æ		>	-DZIEÆ,-
+	D Z I E Æ		>	-DZIEÆ,MY
+	D Z I E Æ		>	-DZIEÆ,CIE
+	D Z I E Æ		>	-IEÆ,¡
+	
+	C I E Æ			>	-IEÆ,Ê		#dolecieæ (92a)
+	C I E Æ			>	-EÆ,SZ
+	C I E Æ			>	-EÆ,-
+	C I E Æ			>	-EÆ,MY
+	C I E Æ			>	-EÆ,CIE
+	C I E Æ			>	-IEÆ,¡
+
+	N I E Æ			>	-IEÆ,Ê		#pachnieæ (48)
+	N I E Æ			>	-Æ,SZ
+	N I E Æ			>	-Æ,-
+	N I E Æ			>	-Æ,MY
+	N I E Æ			>	-Æ,CIE
+	N I E Æ			>	-IEÆ,¡
+
+	[MP] I E Æ		>	-EÆ,Ê		#zdumieæ (89)
+	[MP] I E Æ		>	-EÆ,SZ
+	[MP] I E Æ		>	-EÆ,-
+	[MP] I E Æ		>	-EÆ,MY
+	[MP] I E Æ		>	-EÆ,CIE
+	[MP] I E Æ		>	-EÆ,¡
+
+	S I E Æ			>	-IEÆ,ZÊ		#musieæ (93)
+	S I E Æ			>	-EÆ,SZ
+	S I E Æ			>	-EÆ,-
+	S I E Æ			>	-EÆ,MY
+	S I E Æ			>	-EÆ,CIE
+	S I E Æ			>	-IEÆ,Z¡
+
+	L E Æ			>	-EÆ,Ê		#domy¶leæ (90)
+	L E Æ			>	-EÆ,ISZ
+	L E Æ			>	-EÆ,I
+	L E Æ			>	-EÆ,IMY
+	L E Æ			>	-EÆ,ICIE
+	L E Æ			>	-EÆ,¡
+	
+	[AO] R Z E Æ		>	-Æ,JÊ		#chorzeæ (49)
+	[AO] R Z E Æ		>	-Æ,JESZ
+	[AO] R Z E Æ		>	-Æ,JE
+	[AO] R Z E Æ		>	-Æ,JEMY
+	[AO] R Z E Æ		>	-Æ,JECIE
+	[AO] R Z E Æ		>	-Æ,J¡
+
+	[^AO] R Z E Æ		>	-ZEÆ,Ê		#drzeæ (43)
+	[^AO] R Z E Æ		>	-Æ,SZ
+	[^AO] R Z E Æ		>	-Æ,-
+	[^AO] R Z E Æ		>	-Æ,MY
+	[^AO] R Z E Æ		>	-Æ,CIE
+	[^AO] R Z E Æ		>	-ZEÆ,¡
+
+	Ê Z I Æ 		>	-Æ,Ê		#ga³êziæ (73b)
+	Ê Z I Æ 		>	-Æ,SZ
+	Ê Z I Æ 		>	-Æ,-
+	Ê Z I Æ 		>	-Æ,MY
+	Ê Z I Æ 		>	-Æ,CIE
+	Ê Z I Æ 		>	-Æ,¡
+
+	[BFMNPW] I Æ		>	-Æ,JÊ		#pobiæ (51)
+	[BFMNPW] I Æ		>	-Æ,JESZ
+	[BFMNPW] I Æ		>	-Æ,JE
+	[BFMNPW] I Æ		>	-Æ,JEMY
+	[BFMNPW] I Æ		>	-Æ,JECIE
+	[BFMNPW] I Æ		>	-Æ,J¡
+
+	¡ ¦ Æ			> 	-¡¦Æ,ÊSÊ	#trz±¶æ (38)
+	¡ ¦ Æ			> 	-¡¦Æ,ÊSIESZ
+	¡ ¦ Æ			> 	-¡¦Æ,ÊSIE
+	¡ ¦ Æ			> 	-¡¦Æ,ÊSIEMY
+	¡ ¦ Æ			> 	-¡¦Æ,ÊSIECIE
+	¡ ¦ Æ			> 	-¡¦Æ,ÊS¡
+
+	[^J] E ¦ Æ		>	-E¦Æ,OSÊ	#nie¶æ
+	[^J] E ¦ Æ		>	-¦Æ,SIESZ
+	[^J] E ¦ Æ		>	-¦Æ,SIE
+	[^J] E ¦ Æ		>	-¦Æ,SIEMY
+	[^J] E ¦ Æ		>	-¦Æ,SIECIE
+	[^J] E ¦ Æ		>	-E¦Æ,OS¡
+
+	Ó ¦ Æ			>	-Ó¦Æ,ODÊ	#bó¶æ
+	Ó ¦ Æ			>	-Ó¦Æ,ODZIESZ
+	Ó ¦ Æ			>	-Ó¦Æ,ODZIE
+	Ó ¦ Æ			>	-Ó¦Æ,ODZIEMY
+	Ó ¦ Æ			>	-Ó¦Æ,ODZIECIE
+	Ó ¦ Æ			>	-Ó¦Æ,OD¡
+
+	[UY] Æ			>	-Æ,JÊ		#¿yæ, szyæ, czuæ, piæ (51)
+	[UY] Æ			>	-Æ,JESZ
+	[UY] Æ			>	-Æ,JE
+	[UY] Æ			>	-Æ,JEMY
+	[UY] Æ			>	-Æ,JECIE
+	[UY] Æ			>	-Æ,J¡
+
+	[^E] ¬ Æ		>	-¬Æ,ZÊ		#gry¼æ
+	[^E] ¬ Æ		>	-¬Æ,ZIESZ
+	[^E] ¬ Æ		>	-¬Æ,ZIE
+	[^E] ¬ Æ		>	-¬Æ,ZIEMY
+	[^E] ¬ Æ		>	-¬Æ,ZIECIE
+	[^E] ¬ Æ		>	-¬Æ,Z¡
+
+	I E ¬ Æ			>	-E¬Æ,OZÊ	#wie¼æ (31a) !znale¼æ !le¼æ
+	I E ¬ Æ			>	-¬Æ,ZIESZ
+	I E ¬ Æ			>	-¬Æ,ZIE
+	I E ¬ Æ			>	-¬Æ,ZIEMY
+	I E ¬ Æ			>	-¬Æ,ZIECIE
+	I E ¬ Æ			>	-E¬Æ,OZ¡
+
+	L E ¬ Æ			>	-¬Æ,ZÊ		#le¼æ (39)
+	L E ¬ Æ			>	-¬Æ,ZIESZ
+	L E ¬ Æ			>	-¬Æ,ZIE
+	L E ¬ Æ			>	-¬Æ,ZIEMY
+	L E ¬ Æ			>	-¬Æ,ZIECIE
+	L E ¬ Æ			>	-¬Æ,Z¡

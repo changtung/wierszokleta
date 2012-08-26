@@ -1,0 +1,18 @@
+	R		>	ZY		#Afrykaner, aktor
+	R Z		>	E		#adwersarz
+	[OU] Z		>	I		#wirtuoz
+#	A N		>	IE		#cygan, krajan
+	[BMNPSW]	>	I		#ch³op, prymas, Aborygen
+	C H		>	-CH,SI		#mnich
+	D		>	ZI		#negroid
+	G		>	-G,DZY		#klimatolog
+	K		>	-K,CY		#Australijczyk, Austriak
+	T		>	-T,CI		#student
+	D A		>	-A,ZI		#antypoda
+	G A		>	-GA,DZY		#kolega
+	K A		>	-KA,CY		#zawadiaka
+	R A		>	-A,ZY		#geometra
+	[^S] T A	>	-TA,CI		#wierszokleta
+	S T A		>	-STA,¦CI	#artysta
+	Z N A		>	-ZNA,¬NI	#mê¿czyzna
+	E N A		>	-A,I		#indygena

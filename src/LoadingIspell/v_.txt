@@ -1,0 +1,9 @@
+	I E		>	-E,-		#kroci
+	C Z E		>	-E,-
+	I L E		>	-E,-		#Termopile
+	[ST] E		>	-E,YCH		#niesnujowate, dorszowate, wios³onose
+	L C E		>	-CE,EC		#Siedlce
+	J E		>	-JE,I		#wierzeje
+	C A		>	-CA,KÓW		#judaica
+	[IKS] A		>	-A,-		#niebiosa,odrzwia, trzewia, bracia
+	W A		>	-WA,EW

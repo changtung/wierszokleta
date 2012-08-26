@@ -1,0 +1,130 @@
+	E C H		>	-ECH,CHU	#mech
+	E C H		>	-ECH,CHEM
+
+	E C		>	-EC,CU		#kruszec
+	E C		>	-EC,COWI
+	E C		>	-EC,CEM
+
+	E K		>	-EK,KU		#any¿ek
+	E K		>	-EK,KOWI
+	E K		>	-EK,KIEM
+
+	E M		>	-EM,MU		#najem
+	E M		>	-EM,MOWI
+	E M		>	-EM,MEM
+	E M		>	-EM,MIE
+
+	E N		>	-EN,NU		#sen
+	E N		>	-EN,NOWI
+	E N		>	-EN,NEM
+	[^S] E N	>	-EN,NIE
+	S E N		>	-SEN,¦NIE
+
+	E P		>	-EP,PU		#pó³wysep
+	E P		>	-EP,POWI
+	E P		>	-EP,PEM
+	E P		>	-EP,PIE
+	
+	E S T		>	-EST,TU		#chrzest
+	E S T		>	-EST,TOWI
+	E S T		>	-EST,TEM
+	E S T		>	-EST,CIE
+
+	[^I] E R	>	-ER,RU		#alabaster
+	[^I] E R	>	-ER,ROWI
+	[^I] E R	>	-ER,REM
+	[^I] E R	>	-ER,RZE
+
+	I E R		>	-IER,RU		#cukier
+	I E R		>	-IER,ROWI
+	I E R		>	-IER,REM
+	I E R		>	-IER,RZE
+	
+	E T		>	-ET,TU		#ocet
+	E T		>	-ET,TOWI
+	E T		>	-ET,TEM
+	[^S] E T	>	-ET,CIE
+	S E T		>	-SET,¦CIE	#oset
+
+	E W		>	-EW,WU		#pozew
+	E W		>	-EW,WOWI
+	E W		>	-EW,WEM
+	E W		>	-EW,WIE
+
+	E Z		>	-EZ,ZU		#bez
+	E Z		>	-EZ,ZOWI
+	E Z		>	-EZ,ZEM
+	E Z		>	-EZ,ZIE
+	
+	[^I] E L	>	-EL,LU		#bajzel
+	[^I] E L	>	-EL,LOWI
+	[^I] E L	>	-EL,LEM
+
+	I E L		>	-IEL,LU		#konwentykiel
+	I E L		>	-IEL,LOWI
+	I E L		>	-IEL,LEM
+
+	[ZL] E C	>	-EC,CU		#kruszec
+	[ZL] E C	>	-EC,COWI
+	[ZL] E C	>	-EC,CEM
+
+	Ó B		>	-ÓB,OBU		#bób
+	Ó B		>	-ÓB,OBOWI
+	Ó B		>	-ÓB,OBEM
+	Ó B		>	-ÓB,OBIE
+
+	Ó D		>	-ÓD,ODU		#smród, bród
+	Ó D		>	-ÓD,ODOWI
+	Ó D		>	-ÓD,ODEM
+	Ó D		>	-ÓD,ODZIE
+
+	Ó G		>	-ÓG,OGU		#bar³óg
+	Ó G		>	-ÓG,OGOWI
+	Ó G		>	-ÓG,OGIEM
+
+	Ó Z		>	-ÓZ,OZU		#wóz
+	Ó Z		>	-ÓZ,OZOWI
+	Ó Z		>	-ÓZ,OZEM
+	Ó Z		>	-ÓZ,OZIE
+
+	Ó £		>	-Ó£,O£U		#wó³
+	Ó £		>	-Ó£,O£OWI
+	Ó £		>	-Ó£,O£EM
+	Ó £		>	-Ó£,OLE
+
+	Ó J		>	-ÓJ,OJU		#bój, rój
+	Ó J		>	-ÓJ,OJOWI
+	Ó J		>	-ÓJ,OJEM
+
+	Ó R		>	-ÓR,ORU		#bór
+	Ó R		>	-ÓR,OROWI
+	Ó R		>	-ÓR,OREM
+	Ó R		>	-ÓR,ORZE
+
+	Ó T		>	-ÓT,OTU		#ko³owrót
+	Ó T		>	-ÓT,OTOWI
+	Ó T		>	-ÓT,OTEM
+	Ó T		>	-ÓT,OCIE
+
+	Ó W		>	-ÓW,OWU		#³ów
+	Ó W		>	-ÓW,OWOWI
+	Ó W		>	-ÓW,OWEM
+	Ó W		>	-ÓW,OWIE
+
+	¡ B		>	-¡B,ÊBU		#d±b
+	¡ B		>	-¡B,ÊBOWI
+	¡ B		>	-¡B,ÊBEM
+	¡ B		>	-¡B,ÊBIE
+
+	¡ D		>	-¡D,ÊDU		#b³±d
+	¡ D		>	-¡D,ÊDOWI
+	¡ D		>	-¡D,ÊDEM
+	¡ D		>	-¡D,ÊDZIE
+
+	¡ G		>	-¡G,ÊGU		#kr±g
+	¡ G		>	-¡G,ÊGOWI
+	¡ G		>	-¡G,ÊGIEM
+	
+	I E Æ		>	-IEÆ,CIU	#dziegieæ
+	I E Æ		>	-IEÆ,CIOWI
+	I E Æ		>	-IEÆ,CIEM

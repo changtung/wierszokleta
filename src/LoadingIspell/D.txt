@@ -1,0 +1,9 @@
+	[JL]		>	I		#donosiciel
+	¯		>	Y		#
+	[^D] Z		>	Y		#
+	[^¡] D Z	>	Y		#
+	¡ D Z		>	-¡DZ,ÊDZY	#pieni±dz
+	Æ		>	-Æ,CI		#go¶cie
+	Ñ		>	-Ñ,NI		#boleñ
+	¦		>	-¦,SI		#³o¶
+	¬		>	-¬,ZI		#chaba¼

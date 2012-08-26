@@ -1,0 +1,26 @@
+
+# celownik:
+	A		>	-A,OM
+	E		>	-E,OM
+	Y		>	-Y,OM
+	[GK] I		>	-I,OM
+	[^GK] I		>	OM		#drzwi
+
+# biernik:
+# podobnie, jak mianownik
+
+# narzêdnik:
+	[^I] A		>	MI
+	[^C] I A	>	MI
+	E		>	-E,AMI
+	C I A		>	-CIA,ÆMI
+	Y		>	-Y,AMI
+	[GK] I		>	-I,AMI
+	[^GK] I		>	AMI
+	
+# miejscownik:
+	A		>	CH
+	E		>	-E,ACH
+	Y		>	-Y,ACH
+	[GK] I		>	-I,ACH
+	[^GK] I		>	ACH

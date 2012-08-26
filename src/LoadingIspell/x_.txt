@@ -1,0 +1,26 @@
+	[GKL] I		>	-I,A		#srogi, szeroki
+	[^GKL] I	>	A		#czarci
+	Y		>	-Y,A		#dobry
+	[^D] E N	>	-EN,A		#tamten
+	D E N		>	-EN,NA		#jeden
+	
+# rodzaj nijaki:
+	[^L] I		>	E	
+	L I		>	-I,E
+	Y		>	-Y,E
+	[^D] E N	>	-EN,O
+	D E N		>	-EN,NO
+
+#dope³niacz
+	[^L] I		>	EJ
+	L I		>	-I,EJ
+	Y		>	-Y,EJ
+	[^D] E N	>	-N,J
+	D E N		>	-EN,NEJ
+
+#narzêdnik
+	[GKL] I		>	-I,¡
+	[^GKL] I	>	¡
+	Y		>	-Y,¡
+	[^D] E N	>	-EN,¡
+	D E N		>	-EN,N¡

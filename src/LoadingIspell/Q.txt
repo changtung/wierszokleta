@@ -1,0 +1,29 @@
+# dope³niacz lp.:
+	[^Ñ]		>	U		#absolut
+	Ñ		>	-Ñ,NIU		#budyñ
+	
+# celownik lp.:
+	[^Ñ]		>	OWI
+	Ñ		>	-Ñ,NIOWI
+	
+# biernik lp. == dope³niacz lp.
+
+# narzêdnik lp.:
+	[^GKÑ]		>	EM		#luz, !¶nieg 
+	[GK]		>	IEM		#¶nieg, Atlantyk
+	Ñ		>	-Ñ,NIEM
+	
+# miejscownik lp.:
+	[^CÆDGHJKL£MÑRTZ¯¬]	>	IE
+	[ADEIJL£ORTUYZ] M	>	IE		#modem. psalm, enzym, kostium
+	[^Z] D			>	ZIE		
+	A Z D 			>	-AZD,E¬DZIE	#wyjazd
+	[AEIOU] Z		>	IE		#ko³choz
+	R			>	ZE		#
+	[^SA] T			>	-T,CIE		#chwyt
+	[^I] A T		> 	-T,CIE
+	[^W] I A T		> 	-T,CIE 		#proletariat 		
+	W I A T		 	>       -AT,ECIE	#kwiat, okwiat, powiat
+	S T			>	-ST,¦CIE	#agrest
+	[^S] £			>	-£,LE		#¿ywio³
+	S £			>	-S£,¦LE		#namys³

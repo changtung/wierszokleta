@@ -1,0 +1,125 @@
+        L E C          		>	 -C,GNÊ  		#oblec (15a)
+        L E C          		>	 -C,GNIESZ
+        L E C          		>	 -C,GNIE
+        L E C          		>	 -C,GNIEMY
+        L E C          		>	 -C,GNIECIE
+        L E C          		>	 -C,GN¡
+
+        L A Æ          		>	 -AÆ,Ê  		#kaszlaæ (58!)
+        L A Æ          		>	 -AÆ,ESZ
+        L A Æ          		>	 -AÆ,E
+        L A Æ          		>	 -AÆ,EMY
+        L A Æ          		>	 -AÆ,ECIE
+        L A Æ          		>	 -AÆ,¡
+
+	E S £ A Æ   		>	-ES£AÆ,¦CIELÊ	#rozes³aæ, !przes³aæ (68*)
+	E S £ A Æ   		>	-ES£AÆ,¦CIELESZ
+	E S £ A Æ   		>	-ES£AÆ,¦CIELE
+	E S £ A Æ   		>	-ES£AÆ,¦CIELEMY
+	E S £ A Æ   		>	-ES£AÆ,¦CIELECIE
+	E S £ A Æ   		>	-ES£AÆ,¦CIEL¡
+
+	K A S £ A Æ		>	-Æ,M		#kas³aæ (98)
+	K A S £ A Æ		>	-Æ,SZ
+	K A S £ A Æ		>	-Æ,-
+	K A S £ A Æ		>	-Æ,MY
+	K A S £ A Æ		>	-Æ,CIE
+	K A S £ A Æ		>	-Æ,J¡
+
+	D A Æ			>	-Æ,M		#zdaæ (99), !drzyzdaæ
+	D A Æ			>	-Æ,SZ		#dodaæ
+	D A Æ			>	-Æ,-
+	D A Æ			>	-Æ,MY
+	D A Æ			>	-Æ,CIE
+	D A Æ			>	-Æ,DZ¡
+
+	K A Æ			>	-KAÆ,ZCZÊ	#g³askaæ (62)
+	K A Æ			>	-KAÆ,ZCZESZ
+	K A Æ			>	-KAÆ,ZCZE
+	K A Æ			>	-KAÆ,ZCZEMY
+	K A Æ			>	-KAÆ,ZCZECIE
+	K A Æ			>	-KAÆ,ZCZ¡
+
+	E B R A Æ		>	-EBRAÆ,BIORÊ	#rozebraæ (66*)
+	E B R A Æ		>	-EBRAÆ,BIERZESZ
+	E B R A Æ		>	-EBRAÆ,BIERZE
+	E B R A Æ		>	-EBRAÆ,BIERZEMY
+	E B R A Æ		>	-EBRAÆ,BIERZECIE
+	E B R A Æ		>	-EBRAÆ,BIOR¡
+
+	A P R A Æ		>	-AÆ,ZÊ		#rozpapraæ (60)
+	A P R A Æ		>	-AÆ,ZESZ
+	A P R A Æ		>	-AÆ,ZE
+	A P R A Æ		>	-AÆ,ZEMY
+	A P R A Æ		>	-AÆ,ZECIE
+	A P R A Æ		>	-AÆ,Z¡
+
+	E P R A Æ		>	-EPRAÆ,PIORÊ	#rozepraæ (66)
+	E P R A Æ		>	-EPRAÆ,PIERZESZ
+	E P R A Æ		>	-EPRAÆ,PIERZE
+	E P R A Æ		>	-EPRAÆ,PIERZEMY
+	E P R A Æ		>	-EPRAÆ,PIERZECIE
+	E P R A Æ		>	-EPRAÆ,PIOR¡
+
+	T A Æ			>	-Æ,NÊ		#zastaæ, dostaæ (3)
+	T A Æ			>	-Æ,NIESZ
+	T A Æ			>	-Æ,NIE
+	T A Æ			>	-Æ,NIEMY
+	T A Æ			>	-Æ,NIECIE
+	T A Æ			>	-Æ,N¡
+
+	I W A Æ			>	-AÆ,UJÊ		#zestrzeliwaæ (56)
+	I W A Æ			>	-AÆ,UJESZ
+	I W A Æ			>	-AÆ,UJE
+	I W A Æ			>	-AÆ,UJEMY
+	I W A Æ			>	-AÆ,UJECIE
+	I W A Æ			>	-AÆ,UJ¡
+
+	[^I] W A Æ		>	-AÆ,Ê		#rwaæ (65)
+	[^I] W A Æ		>	-AÆ,IESZ
+	[^I] W A Æ		>	-AÆ,IE
+	[^I] W A Æ		>	-AÆ,IEMY
+	[^I] W A Æ		>	-AÆ,IECIE
+	[^I] W A Æ		>	-AÆ,¡
+
+        Z A Æ          		>	 -AÆ,Ê  		#szczaæ (97)
+        Z A Æ          		>	 -AÆ,YSZ
+        Z A Æ          		>	 -AÆ,Y
+        Z A Æ          		>	 -AÆ,YMY
+        Z A Æ          		>	 -AÆ,YCIE
+        Z A Æ          		>	 -AÆ,¡
+
+        [CZ] I E Æ  		>	 -Æ,JÊ 		#zdziadzieæ (49, 50)
+        [CZ] I E Æ  		>	 -Æ,JESZ
+        [CZ] I E Æ  		>	 -Æ,JE
+        [CZ] I E Æ  		>	 -Æ,JEMY
+        [CZ] I E Æ  		>	 -Æ,JECIE
+        [CZ] I E Æ  		>	 -Æ,J¡
+
+        M I E Æ  		>	 -Æ,M 		#zrozumieæ (101)
+        M I E Æ  		>	 -Æ,SZ
+        M I E Æ  		>	 -Æ,-
+        M I E Æ  		>	 -Æ,MY
+        M I E Æ  		>	 -Æ,CIE
+        M I E Æ  		>	 -Æ,J¡
+
+        N I E Æ  		>	 -IEÆ,Ê 	#dopomnieæ (91)
+        N I E Æ  		>	 -IEÆ,ISZ
+        N I E Æ  		>	 -IEÆ,I
+        N I E Æ  		>	 -IEÆ,IMY
+        N I E Æ  		>	 -IEÆ,ICIE
+        N I E Æ  		>	 -IEÆ,¡
+
+        L E Æ          		 >	 -EÆ,Ê  		#kaszleæ (47)
+        L E Æ          		 >	 -Æ,SZ
+        L E Æ          		 >	 -Æ,-
+        L E Æ          		 >	 -Æ,MY
+        L E Æ          		 >	 -Æ,CIE
+        L E Æ          		 >	 -EÆ,¡
+
+        Z E Æ          		 >	 -Æ,JÊ  		#chorzeæ (49)
+        Z E Æ          		 >	 -Æ,JESZ
+        Z E Æ          		 >	 -Æ,JE
+        Z E Æ          		 >	 -Æ,JEMY
+        Z E Æ          		 >	 -Æ,JECIE
+        Z E Æ          		 >	 -Æ,J¡

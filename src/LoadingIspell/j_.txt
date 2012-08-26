@@ -1,0 +1,251 @@
+	L ¡ C		>	-¡C,ÊKNIÊCIA		#l±c - lêkn±æ (14)
+	L ¡ C		>	-¡C,ÊKNIÊCIE
+	L ¡ C		>	-¡C,ÊKNIÊCIACH
+	L ¡ C		>	-¡C,ÊKNIÊCIAMI
+	L ¡ C		>	-¡C,ÊKNIÊCIEM
+	L ¡ C		>	-¡C,ÊKNIÊCIOM
+	L ¡ C		>	-¡C,ÊKNIÊCIU
+	L ¡ C		>	-¡C,ÊKNIÊÆ
+
+	L ¡ C		>	-¡C,ÊKNIÊTO
+
+	[IL] E C	>	ZENIA		#dopiec, powlec (32, 35)
+	[IL] E C	>	ZENIE
+	[IL] E C	>	ZENIACH
+	[IL] E C	>	ZENIAMI
+	[IL] E C	>	ZENIEM
+	[IL] E C	>	ZENIOM
+	[IL] E C	>	ZENIU
+	[IL] E C	>	ZEÑ
+	[IL] E C	>	ZONO
+
+	R Z [EY] C	>	-C,¯ENIA	#dostrzec (33)
+	R Z [EY] C	>	-C,¯ENIE
+	R Z [EY] C	>	-C,¯ENIACH
+	R Z [EY] C	>	-C,¯ENIAMI
+	R Z [EY] C	>	-C,¯ENIEM
+	R Z [EY] C	>	-C,¯ENIOM
+	R Z [EY] C	>	-C,¯ENIU
+	R Z [EY] C	>	-C,¯EÑ
+	R Z [EY] C	>	-C,¯ONO
+
+	£ U C		>	ZENIA		#zat³uc (32)
+	£ U C		>	ZENIE
+	£ U C		>	ZENIACH
+	£ U C		>	ZENIAMI
+	£ U C		>	ZENIEM
+	£ U C		>	ZENIOM
+	£ U C		>	ZENIU
+	£ U C		>	ZEÑ
+	£ U C		>	ZONO
+
+	[^¡EI¦UY¬] Æ	>	-Æ,NIA		#administrowaæ (53, 98), !czuæ, !piæ,
+						#!chcieæ, !wiedzieæ
+	[^¡EI¦UY¬] Æ	>	-Æ,NIE
+	[^¡EI¦UY¬] Æ	>	-Æ,NIEM
+	[^¡EI¦UY¬] Æ	>	-Æ,NIU
+	[^¡EI¦UY¬] Æ	>	-Æ,NIAMI
+	[^¡EI¦UY¬] Æ	>	-Æ,NIOM
+	[^¡EI¦UY¬] Æ	>	-Æ,NIACH
+	[^¡EI¦UY¬] Æ	>	-Æ,Ñ
+	[^¡EI¦UY¬] Æ	>	-Æ,NO
+
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIA	#gi±æ, d±æ (20, 21, 22, 23, 24)
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIE
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIEM
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIU
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIAMI
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIOM
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊCIACH
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊÆ
+	[DIJL¯] ¡ Æ	>	-¡Æ,ÊTO
+
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIA	#chudn±æ (7)
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIE
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIEM
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIU
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIAMI
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIOM
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊCIACH
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊÆ
+	[^SZ] N ¡ Æ	>	-¡Æ,IÊTO
+
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIA	#lizn±æ (6, 8)
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIE
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIEM
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIU
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIAMI
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIOM
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊCIACH
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊÆ
+	Z N ¡ Æ		>	-ZN¡Æ,¬NIÊTO
+
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIA	#cisn±æ (6, 8, 10)
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIE
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIEM
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIU
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIAMI
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIOM
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊCIACH
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊÆ
+	S N ¡ Æ		>	-SN¡Æ,¦NIÊTO
+
+	C I E Æ		>	-IEÆ,ENIA	#chcieæ (45)
+	C I E Æ		>	-IEÆ,ENIE
+	C I E Æ		>	-IEÆ,ENIEM
+	C I E Æ		>	-IEÆ,ENIU
+	C I E Æ		>	-IEÆ,ENIAMI
+	C I E Æ		>	-IEÆ,ENIOM
+	C I E Æ		>	-IEÆ,ENIACH
+	C I E Æ		>	-IEÆ,EÑ
+	C I E Æ		>	-EÆ,ANO
+
+	L E Æ		>	-LEÆ,IELENIA	#mleæ, opleæ (44)
+	L E Æ		>	-LEÆ,IELENIE
+	L E Æ		>	-LEÆ,IELENIACH
+	L E Æ		>	-LEÆ,IELENIAMI
+	L E Æ		>	-LEÆ,IELENIEM
+	L E Æ		>	-LEÆ,IELENIOM
+	L E Æ		>	-LEÆ,IELENIU
+	L E Æ		>	-LEÆ,IELEÑ
+	L E Æ		>	-LEÆ,IELONO
+
+	R Z E Æ		>	-EÆ,ENIA	#dobrzeæ (49, 94)
+	R Z E Æ		>	-EÆ,ENIE
+	R Z E Æ		>	-EÆ,ENIACH
+	R Z E Æ		>	-EÆ,ENIAMI
+	R Z E Æ		>	-EÆ,ENIEM
+	R Z E Æ		>	-EÆ,ENIOM
+	R Z E Æ		>	-EÆ,ENIU
+	R Z E Æ		>	-EÆ,EÑ
+	R Z E Æ		>	-EÆ,ANO
+
+	[^CSZ] I E Æ	>	-Æ,NIA		#butwieæ (49, 89)
+	[^CSZ] I E Æ	>	-Æ,NIE
+	[^CSZ] I E Æ	>	-Æ,NIEM
+	[^CSZ] I E Æ	>	-Æ,NIU
+	[^CSZ] I E Æ	>	-Æ,NIAMI
+	[^CSZ] I E Æ	>	-Æ,NIOM
+	[^CSZ] I E Æ	>	-Æ,NIACH
+	[^CSZ] I E Æ	>	-Æ,Ñ
+	[^CSZ] I E Æ	>	-EÆ,ANO
+
+	S I E Æ		>	-IEÆ,ZENIA		#musieæ (93)
+	S I E Æ		>	-IEÆ,ZENIE
+	S I E Æ		>	-IEÆ,ZENIEM
+	S I E Æ		>	-IEÆ,ZENIU
+	S I E Æ		>	-IEÆ,ZENIAMI
+	S I E Æ		>	-IEÆ,ZENIOM
+	S I E Æ		>	-IEÆ,ZENIACH
+	S I E Æ		>	-IEÆ,ZEÑ
+	S I E Æ		>	-EÆ,ANO
+
+	Z I E Æ		>	-IEÆ,ENIA		#wiedzieæ (92, 103)
+	Z I E Æ		>	-IEÆ,ENIE
+	Z I E Æ		>	-IEÆ,ENIEM
+	Z I E Æ		>	-IEÆ,ENIU
+	Z I E Æ		>	-IEÆ,ENIAMI
+	Z I E Æ		>	-IEÆ,ENIOM
+	Z I E Æ		>	-IEÆ,ENIACH
+	Z I E Æ		>	-IEÆ,EÑ
+	Z I E Æ		>	-EÆ,ANO
+
+	[^AC] I Æ	>	-Æ,CIA		#piæ (51)
+	[^AC] I Æ	>	-Æ,CIE
+	[^AC] I Æ	>	-Æ,CIEM
+	[^AC] I Æ	>	-Æ,CIU
+	[^AC] I Æ	>	-Æ,CIAMI
+	[^AC] I Æ	>	-Æ,CIOM
+	[^AC] I Æ	>	-Æ,CIACH
+#	[^AC] I Æ	>	-Æ,Æ
+	[^AC] I Æ	>	-Æ,TO
+
+	[AE] I Æ	>	-IÆ,JENIA	#czaiæ
+	[AE] I Æ	>	-IÆ,JENIE
+	[AE] I Æ	>	-IÆ,JENIEM
+	[AE] I Æ	>	-IÆ,JENIU
+	[AE] I Æ	>	-IÆ,JENIAMI
+	[AE] I Æ	>	-IÆ,JENIOM
+	[AE] I Æ	>	-IÆ,JENIACH
+	[AE] I Æ	>	-IÆ,JEÑ
+	[AE] I Æ	>	-IÆ,JONO
+
+	C I Æ		>	-IÆ,ENIA	#cuciæ
+	C I Æ		>	-IÆ,ENIE
+	C I Æ		>	-IÆ,ENIEM
+	C I Æ		>	-IÆ,ENIU
+	C I Æ		>	-IÆ,ENIAMI
+	C I Æ		>	-IÆ,ENIOM
+	C I Æ		>	-IÆ,ENIACH
+	C I Æ		>	-IÆ,EÑ
+	C I Æ		>	-IÆ,ONO
+
+	P A ¦ Æ		>	-¦Æ,SIENIA	#pa¶æ (krowy) (26)
+	P A ¦ Æ		>	-¦Æ,SIENIE
+	P A ¦ Æ		>	-¦Æ,SIENIEM
+	P A ¦ Æ		>	-¦Æ,SIENIU
+	P A ¦ Æ		>	-¦Æ,SIENIAMI
+	P A ¦ Æ		>	-¦Æ,SIENIOM
+	P A ¦ Æ		>	-¦Æ,SIENIACH
+	P A ¦ Æ		>	-¦Æ,SIEÑ
+	P A ¦ Æ		>	-¦Æ,SIONO
+
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIA	#trz±¶æ  (38)
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIE
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIEM
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIU
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIAMI
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIOM
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIENIACH
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIEÑ
+	Z ¡ ¦ Æ		>	-¡¦Æ,ÊSIONO
+
+	N I E ¦ Æ	>	-¦Æ,SIENIA	#nie¶æ (31)
+	N I E ¦ Æ	>	-¦Æ,SIENIE
+	N I E ¦ Æ	>	-¦Æ,SIENIEM
+	N I E ¦ Æ	>	-¦Æ,SIENIU
+	N I E ¦ Æ	>	-¦Æ,SIENIAMI
+	N I E ¦ Æ	>	-¦Æ,SIENIOM
+	N I E ¦ Æ	>	-¦Æ,SIENIACH
+	N I E ¦ Æ	>	-¦Æ,SIEÑ
+	N I E ¦ Æ	>	-¦Æ,SIONO
+
+	W I E ¦ Æ	>	-¦Æ,DZENIA	#wie¶æ (29)
+	W I E ¦ Æ	>	-¦Æ,DZENIE
+	W I E ¦ Æ	>	-¦Æ,DZENIEM
+	W I E ¦ Æ	>	-¦Æ,DZENIU
+	W I E ¦ Æ	>	-¦Æ,DZENIAMI
+	W I E ¦ Æ	>	-¦Æ,DZENIOM
+	W I E ¦ Æ	>	-¦Æ,DZENIACH
+	W I E ¦ Æ	>	-¦Æ,DZEÑ
+	W I E ¦ Æ	>	-¦Æ,DZIONO
+
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIA	#bó¶æ (28)
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIE
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIEM
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIU
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIAMI
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIOM
+	Ó ¦ Æ		>	-Ó¦Æ,ODZENIACH
+	Ó ¦ Æ		>	-Ó¦Æ,ODZEÑ
+	Ó ¦ Æ		>	-Ó¦Æ,ODZONO
+
+	[UY] Æ		>	-Æ,CIA		#czuæ (51)
+	[UY] Æ		>	-Æ,CIE
+	[UY] Æ		>	-Æ,CIEM
+	[UY] Æ		>	-Æ,CIU
+	[UY] Æ		>	-Æ,CIAMI
+	[UY] Æ		>	-Æ,CIOM
+	[UY] Æ		>	-Æ,CIACH
+#	[UY] Æ		>	-Æ,Æ
+	[UY] Æ		>	-Æ,TO
+
+	¬ Æ		>	-¬Æ,ZIENIA	#gry¼æ
+	¬ Æ		>	-¬Æ,ZIENIE
+	¬ Æ		>	-¬Æ,ZIENIEM
+	¬ Æ		>	-¬Æ,ZIENIU
+	¬ Æ		>	-¬Æ,ZIENIAMI
+	¬ Æ		>	-¬Æ,ZIENIOM
+	¬ Æ		>	-¬Æ,ZIENIACH
+	¬ Æ		>	-¬Æ,ZIEÑ
+	¬ Æ		>	-¬Æ,ZIONO

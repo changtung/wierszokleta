@@ -1,0 +1,11 @@
+	I E R		>	-IER,RZY	#kwakier
+	T E R		>	-ER,RZY		#arbiter
+	L E C		>	-EC,CY		#bywalec
+	R Z E C		>	-ZEC,CY		#starzec
+	N I N		>	-N,E		#Amerykanin
+	I A N		>	IE		#gwardian
+	N I E C		>	-NIEC,ÑCY	#jeniec
+	[MPW] I E C	>	-IEC,CY		#d³ugodystansowiec, g³upiec
+	Z I E C		>	-ZIEC,¬CY	#je¼dziec
+#	S T A		>	-STA,¦CI	#artysta
+#	Z N A		>	-ZNA,¬NI	#mê¿czyzna

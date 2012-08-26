@@ -1,0 +1,11 @@
+	[^ACÆGJKLÑO¦Z¬¯]>	Y		#kompurtery
+	[CJLY¯] 	>	E		#instrukta¿
+	[^CDS] Z	>	Y		#aplauz
+	[CDS] Z		>	E		#utleniacz
+	[KG]		>	I		#bli¼niak, poci±g
+	Æ		>	-Æ,CIE		#go¶æ
+	Ñ		>	-Ñ,NIE		#boleñ
+	¦		>	-¦,SIE		#gogu¶
+	¬		>	-¬,ZIE		#chaba¼
+	O		>	-O,E		#brudzio
+#	Z A		>	-A,E		#oczajdusza

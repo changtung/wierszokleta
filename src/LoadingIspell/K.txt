@@ -1,0 +1,254 @@
+
+	[^C] A		>	-A,KA		#archiwista, archiwistka
+	[^C] A		>	-A,KI
+	[^C] A		>	-A,CE
+	[^C] A		>	-A,KÊ
+	[^C] A		>	-A,K¡
+	[^C] A		>	-A,KO
+
+	[^C] A		>	-A,EK
+	[^C] A		>	-A,KOM
+	[^C] A		>	-A,KAMI
+	[^CT] A		>	CH
+	T A		>	-A,KACH
+	
+	[^Z] C A	>	-A,ZYNI		#dawca - dawczyni
+	[^Z] C A	>	-A,ZYNIÊ
+	[^Z] C A	>	-A,ZYNI¡
+
+	[^Z] C A	>	-A,ZYÑ
+	[^Z] C A	>	-A,ZYNIOM
+	[^Z] C A	>	-A,ZYNIAMI
+	[^Z] C A	>	-A,ZYNIACH
+
+	[^Ê] Z C A	>	-A,ZYNI		#znalazca
+	[^Ê] Z C A	>	-A,ZYNIÊ
+	[^Ê] Z C A	>	-A,ZYNI¡
+
+	[^Ê] Z C A	>	-A,ZYÑ
+	[^Ê] Z C A	>	-A,ZYNIOM
+	[^Ê] Z C A	>	-A,ZYNIAMI
+	[^Ê] Z C A	>	-A,ZYNIACH
+
+	Ê Z C A		>	-ZCA,¯CZYNI	#zwyciêzca - zwyciê¿czyni
+	Ê Z C A		>	-ZCA,¯CZYNIÊ
+	Ê Z C A		>	-ZCA,¯CZYNI¡
+
+	Ê Z C A		>	-ZCA,¯CZYÑ
+	Ê Z C A		>	-ZCA,¯CZYNIOM
+	Ê Z C A		>	-ZCA,¯CZYNIAMI
+	Ê Z C A		>	-ZCA,¯CZYNIACH
+	
+
+	[^Z] [AIUY] K	>	-K,CZKA		#alkoholik, wie¶niak, 
+	[^Z] [AIUY] K	>	-K,CZKI
+	[^Z] [AIUY] K	>	-K,CZCE
+	[^Z] [AIUY] K	>	-K,CZKÊ
+	[^Z] [AIUY] K	>	-K,CZK¡
+	[^Z] [AIUY] K	>	-K,CZKO
+
+	[^Z] [AIUY] K	>	-K,CZEK
+	[^Z] [AIUY] K	>	-K,CZKOM
+	[^Z] [AIUY] K	>	-K,CZKAMI
+	[^Z] [AIUY] K	>	-K,CZKACH
+	
+	
+	[NT] E K	>	-EK,KA		#lp M.
+	[NT] E K	>	-EK,KI		#D	M B lm
+	[NT] E K	>	-EK,CE		#C Ms
+	[NT] E K	>	-EK,KÊ		#B
+	[NT] E K	>	-EK,K¡		#N
+	[NT] E K	>	-EK,KO		#W
+#	[NT] E K	>			#D jak m lp. (meski)
+	[NT] E K	>	-EK,KOM		#C
+	[NT] E K	>	-EK,KAMI	#N
+	[NT] E K	>	-EK,KACH	#Ms
+
+	P E K		>	-EK,ACZKA	#lp M.
+	P E K		>	-EK,ACZKI	#D	lm M B
+	P E K		>	-EK,ACZCE	#C Ms
+	P E K		>	-EK,ACZKÊ	#B
+	P E K		>	-EK,ACZK¡	#N
+	P E K		>	-EK,ACZKO	#W
+	P E K		>	-EK,ACZEK	#lm D
+	P E K		>	-EK,ACZKOM	#C
+	P E K		>	-EK,ACZKAMI	#N
+	P E K		>	-EK,ACZKACH	#Ms
+
+	
+	[^I] . L	>	KA		#debil, dyskobol, grekofil,
+						#kumpel, #obywatel
+	[^I] . L	>	KI
+	[^I] . L	>	CE
+	[^I] . L	>	KÊ
+	[^I] . L	>	K¡
+	[^I] . L	>	KO
+
+	[^I] . L	>	EK
+	[^I] . L	>	KOM
+	[^I] . L	>	KAMI
+	[^I] . L	>	KACH
+
+	
+	C Z Y K		>	-CZYK,KA	#Boliwijczyk
+	C Z Y K		>	-CZYK,KI
+	C Z Y K		>	-CZYK,CE
+	C Z Y K		>	-CZYK,KÊ
+	C Z Y K		>	-CZYK,K¡
+	C Z Y K		>	-CZYK,KO
+
+	C Z Y K		>	-CZYK,EK
+	C Z Y K		>	-CZYK,KOM
+	C Z Y K		>	-CZYK,KAMI
+	C Z Y K		>	-CZYK,KACH
+
+	[CS] Z		>	KA		#akcjonariusz
+	[CS] Z		>	KI
+	[CS] Z		>	CE
+	[CS] Z		>	KÊ
+	[CS] Z		>	K¡
+	[CS] Z		>	KO
+
+	[CS] Z		>	EK
+	[CS] Z		>	KOM
+	[CS] Z		>	KAMI
+	[CS] Z		>	KACH
+
+	C H		>	-CH,SZKA	#Czech
+	C H		>	-CH,SZKI
+	C H		>	-CH,SZCE
+	C H		>	-CH,SZKÊ
+	C H		>	-CH,SZK¡
+	C H		>	-CH,SZKO
+	
+	C H		>	-CH,SZEK
+	C H		>	-CH,SZKOM
+	C H		>	-CH,SZKAMI
+	C H		>	-CH,SZKACH
+
+	I C		>	ZKA		#dziedzic
+	I C		>	ZKI
+	I C		>	ZCE
+	I C		>	ZKÊ
+	I C		>	ZK¡
+	I C		>	ZKO
+	
+	I C		>	ZEK
+	I C		>	ZKOM
+	I C		>	ZKAMI
+	I C		>	ZKACH
+
+	[^ACHKLN¦YZ]	>	KA		#administrator
+	[^ACHKLN¦YZ]	>	KI
+	[^ACHKLN¦YZ]	>	CE
+	[^ACHKLN¦YZ]	>	KÊ
+	[^ACHKLN¦YZ]	>	K¡
+	[^ACHKLN¦YZ]	>	KO
+
+	[^ACHKLN¦YZ]	>	EK
+	[^ACHKLN¦YZ]	>	KOM
+	[^ACHKLN¦YZ]	>	KAMI
+	[^ACHKLN¦YZ]	>	KACH
+
+	¬ N Y		>	-Y,A		#wo¼ny
+	¬ N Y		>	-Y,EJ
+	¬ N Y		>	-Y,¡
+	¬ N Y		>	-Y,E
+	¬ N Y		>	CH
+	¬ N Y		>	M
+	¬ N Y		>	MI
+	
+	[JW] N I ¦	> -¦, SIA		#¿artowni¶, strojni¶
+	[JW] N I ¦	> -¦, SI
+	[JW] N I ¦	> -¦, SIÊ
+	[JW] N I ¦	> -¦, SI¡
+
+	[JW] N I ¦	> -¦, SIE
+	[JW] N I ¦	> -¦, SIOM
+	[JW] N I ¦	> -¦, SIAMI
+	[JW] N I ¦	> -¦, SIACH
+	
+	A C I E L	>	-EL,Ó£KA	#przyjaciel
+	A C I E L	>	-EL,Ó£KI
+	A C I E L	>	-EL,Ó£CE
+	A C I E L	>	-EL,Ó£KÊ
+	A C I E L	>	-EL,Ó£K¡
+	A C I E L	>	-EL,Ó£KO
+
+	A C I E L	>	-EL,Ó£EK
+	A C I E L	>	-EL,Ó£KOM
+	A C I E L	>	-EL,Ó£KAMI
+	A C I E L	>	-EL,Ó£KACH
+	
+	[IY] C I E L	>	KA		#nauczyciel, wielbiciel
+	[IY] C I E L	>	KI
+	[IY] C I E L	>	CE
+	[IY] C I E L	>	KÊ
+	[IY] C I E L	>	K¡
+	[IY] C I E L	>	KO
+
+	[IY] C I E L	>	EK
+	[IY] C I E L	>	KOM
+	[IY] C I E L	>	KAMI
+	[IY] C I E L	>	KACH
+
+	[^I] N		>	KA		#mitoman, sportsmen,
+						#kretyn, kuzyn, chuligan,
+						#krajan opiekun, patron
+	[^I] N		>	KI
+	[^I] N		>	CE
+	[^I] N		>	KÊ
+	[^I] N		>	K¡
+	[^I] N		>	KO
+	
+	[^I] N		>	EK
+	[^I] N		>	KOM
+	[^I] N		>	KAMI
+	[^I] N		>	KACH
+
+	N I N		>	-IN,KA		#Afrykanin
+	N I N		>	-IN,KI
+	N I N		>	-IN,CE
+	N I N		>	-IN,KÊ
+	N I N		>	-IN,K¡
+	N I N		>	-IN,KO
+	
+	N I N		>	-IN,EK
+	N I N		>	-IN,KOM
+	N I N		>	-IN,KAMI
+	N I N		>	-IN,KACH
+
+	I E C		>	-IEC,KA		#cudzoziemiec
+	I E C		>	-IEC,KI
+	I E C		>	-IEC,CE
+	I E C		>	-IEC,KÊ
+	I E C		>	-IEC,K¡
+	I E C		>	-IEC,KO
+	
+	I E C		>	-IEC,EK
+	I E C		>	-IEC,KOM
+	I E C		>	-IEC,KAMI
+	I E C		>	-IEC,KACH
+
+	[^T] R Z	>	-Z,KA		#kwiaciarz, adwersarz
+	[^T] R Z	>	-Z,KI
+	[^T] R Z	>	-Z,CE
+	[^T] R Z	>	-Z,KÊ
+	[^T] R Z	>	-Z,K¡
+	[^T] R Z	>	-Z,KO
+
+#	[^T] R Z	>	-Z,KI		#= D lp
+	[^T] R Z	>	-Z,EK
+	[^T] R Z	>	-Z,KOM
+	[^T] R Z	>	-Z,KAMI
+	[^T] R Z	>	-Z,KACH
+	
+	T R Z		>	YNI		#mistrz
+	T R Z		>	YNI¡		#N
+	T R Z		>	YNIÊ		#B
+
+	T R Z		>	YNIE		#lm M B
+	T R Z		>	YÑ		#D
+	T R Z		>	YNIOM		#C
+	T R Z		>	YNIAMI		#N
+	T R Z		>	YNIACH		#Ms

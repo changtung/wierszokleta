@@ -1,0 +1,38 @@
+	I A		>	-IA,I		#ziemia - ziemi
+	J A		>	-JA,I		#aleja - alei
+
+	[IJ] A		>	-A,Ê
+	[IJ] A		>	-A,¡
+
+	W A		>	-A,EJ		#cesarzowa
+	W A		>	-A,¡		#cesarzowa
+
+#wo³acz
+	[BGM] I A			>	-A,O
+
+	[BMOI] C I A			>	-A,U		#babcia, ciocia, kicia
+	[^BMOI] C I A			>	-A,O
+
+	[AE] N I A			>	-A,U
+	[N] [BCDFHIJKLM¬] N I A		>	-A,O
+	[^N] [BCDFHIJKLM¬] N I A	>	-A,U
+	[£PRT¦WYZ¯] N I A		>	-A,O
+
+	[BIMRT] U N I A			>	-A,U
+	[^BIMRT] U N I A 		>	-A,O
+
+	P I A				>	-A,O
+
+	[^Ê] [^W] . S I A 		>	-A,U
+	Ê B U S I A			>	-A,O		#gêbusia
+	W U S I A			>	-A,U		#kawusia
+
+	I Z I A				>	-A,U
+	[^ID] Z I A			>	-A,O
+	[AI] D Z I A			>	-A,U
+	[^AI] D Z I A			>	-A,O
+
+	[^IL] A				>	-A,O
+
+	[EO] L A			>	-A, U		#Ela
+	[^EO] L A			>	-A, O

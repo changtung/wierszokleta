@@ -1,0 +1,11 @@
+	[^Ó] [BPW]	>	IU		#jedwab
+	[^Ó] [BPW]	>	IOWI
+	[^Ó] [BPW]	>	IEM
+
+	Ó B		>	-ÓB,OBIU	#drób
+	Ó B		>	-ÓB,OBIOWI
+	Ó B		>	-ÓB,OBIEM
+
+	Ó W		>	-ÓW,OWIU	#o³ów
+	Ó W		>	-ÓW,OWIOWI
+	Ó W		>	-ÓW,OWIEM

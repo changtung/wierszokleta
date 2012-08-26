@@ -1,0 +1,328 @@
+
+	E C H		>	-ECH,CHÓW	#mech
+	E C H		>	-ECH,CHOM
+	E C H		>	-ECH,CHAMI
+	E C H		>	-ECH,CHACH
+
+	[^I] E R	>	-ER,RÓW		#skafander
+	[^I] E R	>	-ER,ROM
+	[^I] E R	>	-ER,RAMI
+	[^I] E R	>	-ER,RACH
+
+	I E Æ		>	-IEÆ,CI		#³okieæ
+	I E Æ		>	-IEÆ,CIOM
+	I E Æ		>	-IEÆ,CIAMI
+	I E Æ		>	-IEÆ,CIACH
+
+	I E P		>	-IEP,PÓW	#kiep
+	I E P		>	-IEP,POM
+	I E P		>	-IEP,PAMI
+	I E P		>	-IEP,PACH
+
+	I E R		>	-IER,RÓW	#szwagier, bunkier
+	I E R		>	-IER,ROM
+	I E R		>	-IER,RAMI
+	I E R		>	-IER,RACH
+
+	I E S		>	-IES,SÓW	#pies
+	I E S		>	-IES,SOM
+	I E S		>	-IES,SAMI
+	I E S		>	-IES,SACH
+
+	[^I] E N	>	-EN,NÓW		#sen
+	[^I] E N	>	-EN,NOM
+	[^I] E N	>	-EN,NAMI
+	[^I] E N	>	-EN,NACH
+
+	[^I] E L	>	-EL,LI		#szwindel
+	[^I] E L	>	-EL,LOM
+	[^I] E L	>	-EL,LAMI
+	[^I] E L	>	-EL,LACH
+	
+	I E £		>	-IE£,£ÓW	#kie³, szczygie³
+	I E £		>	-IE£,£OM
+	I E £		>	-IE£,£AMI
+	I E £		>	-IE£,£ACH
+
+	I E L		>	-IEL,LI		#magiel
+	I E L		>	-IEL,LOM
+	I E L		>	-IEL,LAMI
+	I E L		>	-IEL,LACH
+
+	[^I] E K	>	-EK,KÓW		#bo¿ek
+	[^I] E K	>	-EK,KOM
+	[^I] E K	>	-EK,KAMI
+	[^I] E K	>	-EK,KACH
+
+	C I E K		>	-CIEK,ÆKÓW	#bociek
+	C I E K		>	-CIEK,ÆKOM
+	C I E K		>	-CIEK,ÆKAMI
+	C I E K		>	-CIEK,ÆKACH
+
+	N I E K		>	-NIEK,ÑKÓW	#pieniek, ogieniek
+	N I E K		>	-NIEK,ÑKOM
+	N I E K		>	-NIEK,ÑKAMI
+	N I E K		>	-NIEK,ÑKACH
+
+	S I E K		>	-SIEK,¦KÓW	#misiek
+	S I E K		>	-SIEK,¦KOM
+	S I E K		>	-SIEK,¦KAMI
+	S I E K		>	-SIEK,¦KACH
+
+	I E Z		>	-IEZ,ZÓW	#giez
+	I E Z		>	-IEZ,ZOM
+	I E Z		>	-IEZ,ZAMI
+	I E Z		>	-IEZ,ZACH
+
+	[^I] E Z	>	-EZ,ZÓW		#bez
+	[^I] E Z	>	-EZ,ZOM
+	[^I] E Z	>	-EZ,ZAMI
+	[^I] E Z	>	-EZ,ZACH
+
+	[^R] Z E £	>	-E£,£ÓW		#wêze³
+	[^R] Z E £	>	-E£,£OM
+	[^R] Z E £	>	-E£,£AMI
+	[^R] Z E £	>	-E£,£ACH
+
+	R Z E £		>	-ZE£,£ÓW	#orze³
+	R Z E £		>	-ZE£,£OM
+	R Z E £		>	-ZE£,£AMI
+	R Z E £		>	-ZE£,£ACH
+
+	R Z E C		>	-ZEC,CÓW	#starzec
+	R Z E C		>	-ZEC,COM
+	R Z E C		>	-ZEC,CAMI
+	R Z E C		>	-ZEC,CACH
+
+	[CS] Z E C	>	-EC,CÓW		#³yszczec, g³uszec
+	[CS] Z E C	>	-EC,COM
+	[CS] Z E C	>	-EC,CAMI
+	[CS] Z E C	>	-EC,CACH
+
+	[^IZ] E C	>	-EC,CÓW		#dzioboro¿ec, bywalec, kapec, 
+						#kojec, ose³edec
+	[^IZ] E C	>	-EC,COM
+	[^IZ] E C	>	-EC,CAMI
+	[^IZ] E C	>	-EC,CACH
+
+	N I E C		>	-NIEC,ÑCÓW	#jeniec
+	N I E C		>	-NIEC,ÑCOM
+	N I E C		>	-NIEC,ÑCAMI
+	N I E C		>	-NIEC,ÑCACH
+
+#	N I N		>	-IN,ÓW		#Amerykanów <-> bydgoszczan?
+	N I N		>	-IN,OM
+	N I N		>	-IN,AMI
+	N I N		>	-IN,ACH
+
+	[^CNSZ] I E C	>	-IEC,CÓW	#szczerbiec
+	[^CNSZ] I E C	>	-IEC,COM
+	[^CNSZ] I E C	>	-IEC,CAMI
+	[^CNSZ] I E C	>	-IEC,CACH
+
+	Z I E C		>	-ZIEC,¬CÓW	#je¼dziec
+	Z I E C		>	-ZIEC,¬COM
+	Z I E C		>	-ZIEC,¬CAMI
+	Z I E C		>	-ZIEC,¬CACH
+
+	S I E C		>	-SIEC,¦CÓW	#brzusiec
+	S I E C		>	-SIEC,¦COM
+	S I E C		>	-SIEC,¦CAMI
+	S I E C		>	-SIEC,¦CACH
+
+	J C I E C	>	-IEC,ÓW		#ojciec
+	J C I E C	>	-IEC,OM
+	J C I E C	>	-IEC,AMI
+	J C I E C	>	-IEC,ACH
+
+	[^J] C I E C	>	-CIEC,ÆCÓW	#kosaciec, ko¶ciec
+	[^J] C I E C	>	-CIEC,ÆCOM
+	[^J] C I E C	>	-CIEC,ÆCAMI
+	[^J] C I E C	>	-CIEC,ÆCACH
+
+	Ó B		>	-ÓB,OBÓW	#nierób
+	Ó B		>	-ÓB,OBOM
+	Ó B		>	-ÓB,OBAMI
+	Ó B		>	-ÓB,OBACH
+
+	Ó B R		>	-ÓBR,OBRÓW	#bóbr
+	Ó B R		>	-ÓBR,OBROM
+	Ó B R		>	-ÓBR,OBRAMI
+	Ó B R		>	-ÓBR,OBRACH
+
+	Ó D		>	-ÓD,ODÓW	#korowód
+	Ó D		>	-ÓD,ODOM
+	Ó D		>	-ÓD,ODAMI
+	Ó D		>	-ÓD,ODACH
+
+	Ó D Z		>	-ÓDZ,ODZÓW	#wódz
+	Ó D Z		>	-ÓDZ,ODZOM
+	Ó D Z		>	-ÓDZ,ODZAMI
+	Ó D Z		>	-ÓDZ,ODZACH
+
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZI	#gwó¼d¼
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIOM
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIAMI
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIACH
+
+	Ó G		>	-ÓG,OGÓW	#bóg
+	Ó G		>	-ÓG,OGOM
+	Ó G		>	-ÓG,OGAMI
+	Ó G		>	-ÓG,OGACH
+
+	Ó J		>	-ÓJ,OJÓW	#s³ój
+	Ó J		>	-ÓJ,OJOM
+	Ó J		>	-ÓJ,OJAMI
+	Ó J		>	-ÓJ,OJACH
+
+	Ó L		>	-ÓL,OLI		#mól
+	Ó L		>	-ÓL,OLOM
+	Ó L		>	-ÓL,OLAMI
+	Ó L		>	-ÓL,OLACH
+
+	Ó £		>	-Ó£,O£ÓW	#wó³
+	Ó £		>	-Ó£,O£OM
+	Ó £		>	-Ó£,O£AMI
+	Ó £		>	-Ó£,O£ACH
+
+	Ó R		>	-ÓR,ORÓW	#bór
+	Ó R		>	-ÓR,OROM
+	Ó R		>	-ÓR,ORAMI
+	Ó R		>	-ÓR,ORACH
+
+	Ó T		>	-ÓT,OTÓW	#ko³owrót
+	Ó T		>	-ÓT,OTOM
+	Ó T		>	-ÓT,OTAMI
+	Ó T		>	-ÓT,OTACH
+
+	Ó W		>	-ÓW,OWÓW	#cudzys³ów
+	Ó W		>	-ÓW,OWOM
+	Ó W		>	-ÓW,OWAMI
+	Ó W		>	-ÓW,OWACH
+
+	Ó Z		>	-ÓZ,OZÓW	#wóz
+	Ó Z		>	-ÓZ,OZOM
+	Ó Z		>	-ÓZ,OZAMI
+	Ó Z		>	-ÓZ,OZACH
+	
+	Ó ¯		>	-Ó¯,O¯Y		#nó¿
+	Ó ¯		>	-Ó¯,O¯OM
+	Ó ¯		>	-Ó¯,O¯AMI
+	Ó ¯		>	-Ó¯,O¯ACH
+	
+	¡ B		>	-¡B,ÊBÓW	#d±b
+	¡ B		>	-¡B,ÊBOM
+	¡ B		>	-¡B,ÊBAMI
+	¡ B		>	-¡B,ÊBACH
+	
+
+	¡ C		>	-¡C,ÊCY		#miesi±c, tysi±c
+	¡ C		>	OM
+	¡ C		>	AMI
+	¡ C		>	ACH
+
+	¡ D		>	-¡D,ÊDÓW	#b³±d
+	¡ D		>	-¡D,ÊDOM
+	¡ D		>	-¡D,ÊDAMI
+	¡ D		>	-¡D,ÊDACH
+
+	¡ G		>	-¡G,ÊGÓW	#kr±g
+	¡ G		>	-¡G,ÊGOM
+	¡ G		>	-¡G,ÊGAMI
+	¡ G		>	-¡G,ÊGACH
+
+	¡ Z		>	-¡Z,ÊZÓW	#paw±z 
+	¡ Z		>	-¡Z,ÊZOM
+	¡ Z		>	-¡Z,ÊZAMI
+	¡ Z		>	-¡Z,ÊZACH
+
+	¡ ¯		>	-¡¯,Ê¯ÓW	#m±¿
+	¡ ¯		>	-¡¯,Ê¯OM
+	¡ ¯		>	-¡¯,Ê¯AMI
+	¡ ¯		>	-¡¯,Ê¯ACH
+
+	E B		>	-EB,BÓW		#³eb
+	E B		>	-EB,BOM
+	E B		>	-EB,BAMI
+	E B		>	-EB,BACH
+
+	[^I] E Æ	>	-EÆ,CI		#kapeæ
+	[^I] E Æ	>	-EÆ,CIOM
+	[^I] E Æ	>	-EÆ,CIAMI
+	[^I] E Æ	>	-EÆ,CIACH
+
+	E P		>	-EP,PÓW		#pó³wysep
+	E P		>	-EP,POM
+	E P		>	-EP,PAMI
+	E P		>	-EP,PACH
+
+	E S T		>	-EST,TÓW	#chrzest
+	E S T		>	-EST,TOM
+	E S T		>	-EST,TAMI
+	E S T		>	-EST,TACH
+
+	E T		>	-ET,TÓW		#ocet
+	E T		>	-ET,TOM
+	E T		>	-ET,TAMI
+	E T		>	-ET,TACH
+
+	E W		>	-EW,WÓW		#lew
+	E W		>	-EW,WOM
+	E W		>	-EW,WAMI
+	E W		>	-EW,WACH
+
+	[^IZ] E £	>	-E£,£ÓW		#diabe³, pose³
+	[^IZ] E £	>	-E£,£OM
+	[^IZ] E £	>	-E£,£AMI
+	[^IZ] E £	>	-E£,£ACH
+
+	C I E Ñ		>	-CIEÑ,TNI	#kwiecieñ
+	C I E Ñ		>	-CIEÑ,TNIOM
+	C I E Ñ		>	-CIEÑ,TNIAMI
+	C I E Ñ		>	-CIEÑ,TNIACH
+
+	[GP] I E Ñ	>	-IEÑ,NI		#pieñ
+	[GP] I E Ñ	>	-IEÑ,NIOM
+	[GP] I E Ñ	>	-IEÑ,NIAMI
+	[GP] I E Ñ	>	-IEÑ,NIACH
+
+	S I E Ñ		>	-SIEÑ,¦NI	#wrzesieñ
+	S I E Ñ		>	-SIEÑ,¦NIOM
+	S I E Ñ		>	-SIEÑ,¦NIAMI
+	S I E Ñ		>	-SIEÑ,¦NIACH
+
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIÓW	#wiêzieñ
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIOM
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIAMI
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIACH
+
+	D Z I E Ñ	>	-ZIEÑ,NI	#dzieñ
+	D Z I E Ñ	>	-ZIEÑ,NIOM
+	D Z I E Ñ	>	-ZIEÑ,NIAMI
+	D Z I E Ñ	>	-ZIEÑ,NIACH
+
+	[RT¯] E Ñ	>	-EÑ,NI		#dureñ
+	[RTZ¯] E Ñ	>	-EÑ,NIOM
+	[RTZ¯] E Ñ	>	-EÑ,NIAMI
+	[RTZ¯] E Ñ	>	-EÑ,NIACH
+#	Z E Ñ		>	-EÑ,NI		#t³uczeñ, uczeñ?
+
+	C I O £		>	-CIO£,T£ÓW	#kocio³
+	C I O £		>	-CIO£,T£OM
+	C I O £		>	-CIO£,T£AMI
+	C I O £		>	-CIO£,T£ACH
+
+	Z I O £		>	-ZIO£,Z£ÓW	#kozio³
+	Z I O £		>	-ZIO£,Z£OM
+	Z I O £		>	-ZIO£,Z£AMI
+	Z I O £		>	-ZIO£,Z£ACH
+
+	S I O £		>	-IO£,£ÓW	#osio³
+	S I O £		>	-IO£,£OM
+	S I O £		>	-IO£,£AMI
+	S I O £		>	-IO£,£ACH
+
+	£ O		>	-O,ÓW		#zapiewaj³o
+	£ O		>	-O,OM
+	£ O		>	-O,AMI
+	£ O		>	-O,ACH

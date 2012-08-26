@@ -1,0 +1,22 @@
+	B Y 		> 	-Y,O		#gruby
+	[^HOS] N Y	>	-Y,IE		#absolutny
+	H N Y		>	-Y,O		#króciuchny
+	O N Y		>	-ONY,ENIE	#niestrudzony
+	S N Y		>	-SNY,¦NIE	#zazdrosny
+	[GK] I		>	-I,O		#akademicki,aktorski,b³ogi
+	[NPS] I		>	O		#¶rednio,letnio
+	[CDHPSZ¯] Y	>	-Y,O		#alarmuj±cy,ho¿y
+	[^I] W Y	>	-Y,O		#akordowy
+	I W Y		>	-Y,IE		#burkliwy
+	[^IÊRS] T Y	>	-Y,O		#ceglasty
+	[IÊR] T Y	>	-TY,CIE		#uparty,pieczo³owity
+	S T Y		>	-STY,¦CIE	#gwia¼dzisty
+	[^D] R Y	>	-Y,O		#bury
+	D R Y		>	-Y,ZE		#m±dry
+	[^BOSZ] £ Y	>	-£Y,LE		#niedba³y
+	B £ Y		>	-Y,O		#ob³y
+	O £ Y		>	-Y,O		#go³y
+	S £ Y		>	-S£Y,¦LE	#nie¶cis³y
+	[^S] Z £ Y	>	-Z£Y,¬LE	#obmierz³y
+	[^J] M Y	>	-Y,O		#nieruchomy
+	J M Y		>	-Y,IE		#uprzejmy

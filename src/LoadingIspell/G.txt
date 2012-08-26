@@ -1,0 +1,380 @@
+#						#obciec (16)
+#	[^B] I E C		>  -C,K£A
+	[^B] I E C		>  -C,K£E
+	[^B] I E C		>  -C,K£YCH
+	[^B] I E C		>  -C,K£YMI
+	[^B] I E C		>  -C,KLI
+	[^B] I E C		>  -C,K£EJ
+	[^B] I E C		>  -C,K£YM
+	[^B] I E C		>  -C,K£EGO
+	[^B] I E C		>  -C,K£EMU
+#	[^B] I E C		>  -C,K£Y
+	[^B] I E C		>  -C,K£¡
+#						#zbiec (15)
+#	B I E C			>  -C,G£A
+	B I E C			>  -C,G£E
+	B I E C			>  -C,G£YCH
+	B I E C			>  -C,G£YMI
+	B I E C			>  -C,GLI
+	B I E C			>  -C,G£EJ
+	B I E C			>  -C,G£YM
+	B I E C			>  -C,G£EGO
+	B I E C			>  -C,G£EMU
+#	B I E C			>  -C,G£Y
+	B I E C			>  -C,G£¡
+#						#lec (15)
+#	L E C			>  -C,G£A
+	L E C			>  -C,G£E
+	L E C			>  -C,G£YCH
+	L E C			>  -C,G£YMI
+	L E C			>  -C,GLI
+	L E C			>  -C,G£EJ
+	L E C			>  -C,G£YM
+	L E C			>  -C,G£EGO
+	L E C			>  -C,G£EMU
+#	L E C			>  -C,G£Y
+	L E C			>  -C,G£¡
+#						#sprzysi±c (18a)
+#	I ¡ C			>  -¡C,ÊG£A
+	I ¡ C			>  -¡C,ÊG£E
+	I ¡ C			>  -¡C,ÊG£YCH
+	I ¡ C			>  -¡C,ÊG£YMI
+	I ¡ C			>  -¡C,ÊGLI
+	I ¡ C			>  -¡C,ÊG£EJ
+	I ¡ C			>  -¡C,ÊG£YM
+	I ¡ C			>  -¡C,ÊG£EGO
+	I ¡ C			>  -¡C,ÊG£EMU
+#	I ¡ C			>  -¡C,ÊG£Y
+	I ¡ C			>  -¡C,ÊG£¡
+#						#zl±c (14a) wszystkie znane daj± -êkli, niektóre
+#						 równie¿ -êgli (18a)
+#	L ¡ C			>  -¡C,ÊK£A
+	L ¡ C			>  -¡C,ÊK£E
+	L ¡ C			>  -¡C,ÊK£YCH
+	L ¡ C			>  -¡C,ÊK£YMI
+	L ¡ C			>  -¡C,ÊKLI
+	L ¡ C			>  -¡C,ÊK£EJ
+	L ¡ C			>  -¡C,ÊK£YM
+	L ¡ C			>  -¡C,ÊK£EGO
+	L ¡ C			>  -¡C,ÊK£EMU
+#	L ¡ C			>  -¡C,ÊK£Y
+	L ¡ C			>  -¡C,ÊK£¡
+#						#odtajaæ, powstaæ (58)
+#	[JTU] A Æ		>  -Æ,£A
+	[JTU] A Æ		>  -Æ,£E
+	[JTU] A Æ		>  -Æ,£YCH
+	[JTU] A Æ		>  -Æ,£YMI
+	[JTU] A Æ		>  -Æ,LI
+	[JTU] A Æ		>  -Æ,£EJ
+	[JTU] A Æ		>  -Æ,£YM
+	[JTU] A Æ		>  -Æ,£EGO
+	[JTU] A Æ		>  -Æ,£EMU
+#	[JTU] A Æ		>  -Æ,£Y
+	[JTU] A Æ		>  -Æ,£¡
+#					nabiegn±æ (15)
+#					zalêgn±æ (18)
+#	[EÊ] G N ¡ Æ		>  -N¡Æ,£A
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£E
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£YCH
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£YMI
+	[EÊ] G N ¡ Æ		>  -N¡Æ,LI
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£EJ
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£YM
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£EGO
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£EMU
+#	[EÊ] G N ¡ Æ		>  -N¡Æ,£Y
+	[EÊ] G N ¡ Æ		>  -N¡Æ,£¡
+#						#przegniæ (51)
+#						#przybyæ (2)
+#	[IY] Æ			>  -Æ,£A
+	[IY] Æ			>  -Æ,£E
+	[IY] Æ			>  -Æ,£YCH
+	[IY] Æ			>  -Æ,£YMI
+	[IY] Æ			>  -Æ,LI
+	[IY] Æ			>  -Æ,£EJ
+	[IY] Æ			>  -Æ,£YM
+	[IY] Æ			>  -Æ,£EGO
+	[IY] Æ			>  -Æ,£EMU
+#	[IY] Æ			>  -Æ,£Y
+	[IY] Æ			>  -Æ,£¡
+#						#osi±¶æ (37)
+#	¡ ¦ Æ			>  -¡¦Æ,AD£A
+	¡ ¦ Æ			>  -¡¦Æ,AD£E
+	¡ ¦ Æ			>  -¡¦Æ,AD£YCH
+	¡ ¦ Æ			>  -¡¦Æ,AD£YMI
+	¡ ¦ Æ			>  -¡¦Æ,EDLI
+	¡ ¦ Æ			>  -¡¦Æ,AD£EJ
+	¡ ¦ Æ			>  -¡¦Æ,AD£YM
+	¡ ¦ Æ			>  -¡¦Æ,AD£EGO
+	¡ ¦ Æ			>  -¡¦Æ,AD£EMU
+#	¡ ¦ Æ			>  -¡¦Æ,AD£Y
+	¡ ¦ Æ			>  -¡¦Æ,AD£¡
+#						#odpa¶æ (17)
+#	A ¦ Æ			>  -¦Æ,S£A
+	A ¦ Æ			>  -¦Æ,S£E
+	A ¦ Æ			>  -¦Æ,S£YCH
+	A ¦ Æ			>  -¦Æ,S£YMI
+	A ¦ Æ			>  -¦Æ,¦LI
+	A ¦ Æ			>  -¦Æ,S£EJ
+	A ¦ Æ			>  -¦Æ,S£YM
+	A ¦ Æ			>  -¦Æ,S£EGO
+	A ¦ Æ			>  -¦Æ,S£EMU
+#	A ¦ Æ			>  -¦Æ,S£Y
+	A ¦ Æ			>  -¦Æ,S£¡
+#						#oble¼æ (39)
+#	E ¬ Æ			>  -E¬Æ,AZ£A
+	E ¬ Æ			>  -E¬Æ,AZ£E
+	E ¬ Æ			>  -E¬Æ,AZ£YCH
+	E ¬ Æ			>  -E¬Æ,AZ£YMI
+	E ¬ Æ			>  -E¬Æ,E¬LI
+	E ¬ Æ			>  -E¬Æ,AZ£EJ
+	E ¬ Æ			>  -E¬Æ,AZ£YM
+	E ¬ Æ			>  -E¬Æ,AZ£EGO
+	E ¬ Æ			>  -E¬Æ,AZ£EMU
+#	E ¬ Æ			>  -E¬Æ,AZ£Y
+	E ¬ Æ			>  -E¬Æ,AZ£¡
+#						#ugrz±¼æ 9a!
+#	¡ ¬ Æ			>  -¡¬Æ,ÊZ£A
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£E
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£YCH
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£YMI
+	¡ ¬ Æ			>  -¡¬Æ,Ê¬LI
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£EJ
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£YM
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£EGO
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£EMU
+#	¡ ¬ Æ			>  -¡¬Æ,ÊZ£Y
+	¡ ¬ Æ			>  -¡¬Æ,ÊZ£¡
+#						#ocipieæ (49)
+#	[IL] E Æ		>  -EÆ,A£A
+	[IL] E Æ		>  -EÆ,A£E
+	[IL] E Æ		>  -EÆ,A£YCH
+	[IL] E Æ		>  -EÆ,A£YMI
+	[IL] E Æ		>  -EÆ,ALI
+	[IL] E Æ		>  -EÆ,A£EJ
+	[IL] E Æ		>  -EÆ,A£YM
+	[IL] E Æ		>  -EÆ,A£EGO
+	[IL] E Æ		>  -EÆ,A£EMU
+#	[IL] E Æ		>  -EÆ,A£Y
+	[IL] E Æ		>  -EÆ,A£¡
+#						#dojrzeæ (49)
+#	[^M] [CSR] Z E Æ	>  -EÆ,A£A
+	[^M] [CSR] Z E Æ	>  -EÆ,A£E
+	[^M] [CSR] Z E Æ	>  -EÆ,A£YCH
+	[^M] [CSR] Z E Æ	>  -EÆ,A£YMI
+	[^M] [CSR] Z E Æ	>  -EÆ,ALI
+	[^M] [CSR] Z E Æ	>  -EÆ,A£EJ
+	[^M] [CSR] Z E Æ	>  -EÆ,A£YM
+	[^M] [CSR] Z E Æ	>  -EÆ,A£EGO
+	[^M] [CSR] Z E Æ	>  -EÆ,A£EMU
+#	[^M] [CSR] Z E Æ	>  -EÆ,A£Y
+	[^M] [CSR] Z E Æ	>  -EÆ,A£¡
+#
+#	M S Z E Æ		>  -EÆ,A£A	#omszeæ (49)
+	M S Z E Æ		>  -EÆ,A£E
+	M S Z E Æ		>  -EÆ,A£YCH
+	M S Z E Æ		>  -EÆ,A£YMI
+	M S Z E Æ		>  -EÆ,ALI
+	M S Z E Æ		>  -EÆ,A£EJ
+	M S Z E Æ		>  -EÆ,A£YM
+	M S Z E Æ		>  -EÆ,A£EGO
+	M S Z E Æ		>  -EÆ,A£EMU
+#	M S Z E Æ		>  -EÆ,A£Y
+	M S Z E Æ		>  -EÆ,A£¡
+#						#obumrzeæ (43)
+#	[^E] M R Z E Æ		>  -RZEÆ,AR£A
+	[^E] M R Z E Æ		>  -RZEÆ,AR£E
+	[^E] M R Z E Æ		>  -RZEÆ,AR£YCH
+	[^E] M R Z E Æ		>  -RZEÆ,AR£YMI
+	[^E] M R Z E Æ		>  -RZEÆ,ARLI
+	[^E] M R Z E Æ		>  -RZEÆ,AR£EJ
+	[^E] M R Z E Æ		>  -RZEÆ,AR£YM
+	[^E] M R Z E Æ		>  -RZEÆ,AR£EGO
+	[^E] M R Z E Æ		>  -RZEÆ,AR£EMU
+#	[^E] M R Z E Æ		>  -RZEÆ,AR£Y
+	[^E] M R Z E Æ		>  -RZEÆ,AR£¡
+#						#zemrzeæ (43!*)
+#	E M R Z E Æ		>  -EMRZEÆ,MAR£A
+	E M R Z E Æ		>  -EMRZEÆ,MAR£E
+	E M R Z E Æ		>  -EMRZEÆ,MAR£YCH
+	E M R Z E Æ		>  -EMRZEÆ,MAR£YMI
+	E M R Z E Æ		>  -EMRZEÆ,MARLI
+	E M R Z E Æ		>  -EMRZEÆ,MAR£EJ
+	E M R Z E Æ		>  -EMRZEÆ,MAR£YM
+	E M R Z E Æ		>  -EMRZEÆ,MAR£EGO
+	E M R Z E Æ		>  -EMRZEÆ,MAR£EMU
+#	E M R Z E Æ		>  -EMRZEÆ,MAR£Y
+	E M R Z E Æ		>  -EMRZEÆ,MAR£¡
+#						#zel¿eæ (49)
+#	¯ E Æ			>  -EÆ,A£A
+	¯ E Æ			>  -EÆ,A£E
+	¯ E Æ			>  -EÆ,A£YCH
+	¯ E Æ			>  -EÆ,A£YMI
+	¯ E Æ			>  -EÆ,ALI
+	¯ E Æ			>  -EÆ,A£EJ
+	¯ E Æ			>  -EÆ,A£YM
+	¯ E Æ			>  -EÆ,A£EGO
+	¯ E Æ			>  -EÆ,A£EMU
+#	¯ E Æ			>  -EÆ,A£Y
+	¯ E Æ			>  -EÆ,A£¡
+#						#uró¶æ (10)
+#	Ó ¦ Æ			>  -Ó¦Æ,OS£A
+	Ó ¦ Æ			>  -Ó¦Æ,OS£E
+	Ó ¦ Æ			>  -Ó¦Æ,OS£YCH
+	Ó ¦ Æ			>  -Ó¦Æ,OS£YMI
+	Ó ¦ Æ			>  -Ó¦Æ,O¦LI
+	Ó ¦ Æ			>  -Ó¦Æ,OS£EJ
+	Ó ¦ Æ			>  -Ó¦Æ,OS£YM
+	Ó ¦ Æ			>  -Ó¦Æ,OS£EGO
+	Ó ¦ Æ			>  -Ó¦Æ,OS£EMU
+#	Ó ¦ Æ			>  -Ó¦Æ,OS£Y
+	Ó ¦ Æ			>  -Ó¦Æ,OS£¡
+#						#zrosn±æ (10)
+#	O S N ¡ Æ		>  -N¡Æ,£A
+	O S N ¡ Æ		>  -N¡Æ,£E
+	O S N ¡ Æ		>  -N¡Æ,£YCH
+	O S N ¡ Æ		>  -N¡Æ,£YMI
+	O S N ¡ Æ		>  -SN¡Æ,¦LI
+	O S N ¡ Æ		>  -N¡Æ,£EJ
+	O S N ¡ Æ		>  -N¡Æ,£YM
+	O S N ¡ Æ		>  -N¡Æ,£EGO
+	O S N ¡ Æ		>  -N¡Æ,£EMU
+#	O S N ¡ Æ		>  -N¡Æ,£Y
+	O S N ¡ Æ		>  -N¡Æ,£¡
+#						#os³abn±æ (7)
+						# ciekn±æ (16)
+						# marzn±æ, pe³zn±æ (8a)
+#						#dogasn±æ (8/9)
+#						 zwisn±æ, zaklêsn±æ
+#	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£A
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£E
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£YCH
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£YMI
+
+	[AEÊI£RY] [BKPT] N ¡ Æ	>  -N¡Æ,LI
+	[AEÊI£RY] S N ¡ Æ	>  -SN¡Æ,¦LI
+	[AEÊI£RY] Z N ¡ Æ	>  -ZN¡Æ,¬LI
+	
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£EJ
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£YM
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£EGO
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£EMU
+#	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£Y
+	[AEÊI£RY] [BKPSTZ] N ¡ Æ	>  -N¡Æ,£¡
+
+#	[£R] Z N ¡ Æ		>  -N¡Æ,LI
+
+#	Z E D N ¡ Æ		>  -N¡Æ,£A
+	Z E D N ¡ Æ		>  -N¡Æ,£E
+	Z E D N ¡ Æ		>  -N¡Æ,£YCH
+	Z E D N ¡ Æ		>  -N¡Æ,£YMI
+	Z E D N ¡ Æ		>  -N¡Æ,LI
+	Z E D N ¡ Æ		>  -N¡Æ,£EJ
+	Z E D N ¡ Æ		>  -N¡Æ,£YM
+	Z E D N ¡ Æ		>  -N¡Æ,£EGO
+	Z E D N ¡ Æ		>  -N¡Æ,£EMU
+#	Z E D N ¡ Æ		>  -N¡Æ,£Y
+	Z E D N ¡ Æ		>  -N¡Æ,£¡
+
+#	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£A
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£E
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£YCH
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£YMI
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,ADLI
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£EJ
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£YM
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£EGO
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£EMU
+#	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£Y
+	[^Z] E D N ¡ Æ		>  -EDN¡Æ,AD£¡
+#						#prze¶mierdn±æ (7),
+						# schudnaæ
+#	[ARUY] D N ¡ Æ		>  -N¡Æ,£A
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£E
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£YCH
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£YMI
+	[ARUY] D N ¡ Æ		>  -N¡Æ,LI
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£EJ
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£YM
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£EGO
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£EMU
+#	[ARUY] D N ¡ Æ		>  -N¡Æ,£Y
+	[ARUY] D N ¡ Æ		>  -N¡Æ,£¡
+#						#dogasn±æ (8/9)
+#						 zwisn±æ, zaklêsn±æ
+##	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£A
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£E
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£YCH
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£YMI
+#
+#	[AÊI] S N ¡ Æ		>  -SN¡Æ,¦LI
+#	[AÊI] Z N ¡ Æ		>  -ZN¡Æ,¬LI
+#
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£EJ
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£YM
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£EGO
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£EMU
+##	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£Y
+#	[AÊI] [SZ] N ¡ Æ	>  -N¡Æ,£¡
+#						#lgn±æ (7)
+#	[LY] G N ¡ Æ		>  -N¡Æ,£A
+	[LY] G N ¡ Æ		>  -N¡Æ,£E
+	[LY] G N ¡ Æ		>  -N¡Æ,£YCH
+	[LY] G N ¡ Æ		>  -N¡Æ,£YMI
+	[LY] G N ¡ Æ		>  -N¡Æ,LI
+	[LY] G N ¡ Æ		>  -N¡Æ,£EJ
+	[LY] G N ¡ Æ		>  -N¡Æ,£YM
+	[LY] G N ¡ Æ		>  -N¡Æ,£EGO
+	[LY] G N ¡ Æ		>  -N¡Æ,£EMU
+#	[LY] G N ¡ Æ		>  -N¡Æ,£Y
+	[LY] G N ¡ Æ		>  -N¡Æ,£¡
+#						#wynikn±æ, umilkn±æ (7)
+#	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£A
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£E
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£YCH
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£YMI
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,LI
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£EJ
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£YM
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£EGO
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£EMU
+#	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£Y
+	[¡ÊL] K N ¡ Æ		>  -N¡Æ,£¡
+#						#doschn±æ, !podeschn±æ
+#						#zdechn±æ, ¶cichn±æ(7)
+#						# doschn±æ (12)
+#	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£A
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£E
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£YCH
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£YMI
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,LI
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£EJ
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£YM
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£EGO
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£EMU
+#	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£Y
+	[EÊISUZ] C H N ¡ Æ	>  -N¡Æ,£¡
+#						#wyziêbn±æ (13/13a)
+#	Ê [BD] N ¡ Æ		>  -N¡Æ,£A
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£E
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£YCH
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£YMI
+	Ê [BD] N ¡ Æ		>  -N¡Æ,LI
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£EJ
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£YM
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£EGO
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£EMU
+#	Ê [BD] N ¡ Æ		>  -N¡Æ,£Y
+	Ê [BD] N ¡ Æ		>  -N¡Æ,£¡
+#						#och³odn±æ (11, 11a)
+#	O [DK] N ¡ Æ		>  -N¡Æ,£A
+	O [DK] N ¡ Æ		>  -N¡Æ,£E
+	O [DK] N ¡ Æ		>  -N¡Æ,£YCH
+	O [DK] N ¡ Æ		>  -N¡Æ,£YMI
+	O [DK] N ¡ Æ		>  -N¡Æ,LI
+	O [DK] N ¡ Æ		>  -N¡Æ,£EJ
+	O [DK] N ¡ Æ		>  -N¡Æ,£YM
+	O [DK] N ¡ Æ		>  -N¡Æ,£EGO
+	O [DK] N ¡ Æ		>  -N¡Æ,£EMU
+#	O [DK] N ¡ Æ		>  -N¡Æ,£Y
+	O [DK] N ¡ Æ		>  -N¡Æ,£¡

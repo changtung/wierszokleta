@@ -1,0 +1,33 @@
+	[^L] I		>	EGO
+	L I		>	-I,EGO
+	Y		>	-Y,EGO
+	D E N		>	-EN,NEGO	#¿aden
+	[^D] E N	>	-N,GO		#tamten
+
+# celownik lp.:
+	[^L] I		>	EMU
+	L I		>	-I,EMU
+	Y		>	-Y,EMU
+	D E N		>	-EN,NEMU
+	[^D] E N	>	-N,MU
+	
+# biernik lp.:
+# podobnie, jak dope³niacz lp. lub jak narzêdnik lp.
+
+# narzêdnik lp.:
+	[IY]		>	M
+	D E N		>	-EN,NYM
+	[^D] E N	>	-EN,YM
+
+# mianownik lm.:
+# podobnie, jak mianownik lp., rodz. nijaki
+
+# dope³niacz lm.:
+	[IY]		>	CH
+	D E N		>	-EN,NYCH
+	[^D] E N	>	-EN,YCH
+
+# narzêdnik lm.:
+	[IY]		>	MI
+	D E N		>	-EN,NYMI
+	[^D] E N	>	-EN,YMI

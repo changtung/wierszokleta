@@ -1,0 +1,296 @@
+	E B		>	-EB,BA		#³eb
+	E B		>	-EB,BOWI
+	E B		>	-EB,BEM
+	E B		>	-EB,BIE
+
+	E W		>	-EW,WA		#lew
+	E W		>	-EW,WU
+	E W		>	-EW,WEM
+	E W		>	-EW,WIE
+
+	[^I] E R	>	-ER,RA		#skafander -> skafandra
+	[^I] E R	>	-ER,ROWI
+	[^I] E R	>	-ER,REM
+	[^I] E R	>	-ER,RZE
+
+	I E P		>	-IEP,PA		#kiep
+	I E P		>	-IEP,POWI
+	I E P		>	-IEP,PEM
+	I E P		>	-IEP,PIE
+
+	I E R		>	-IER,RA		#bunkier
+	I E R		>	-IER,ROWI
+	I E R		>	-IER,REM
+	I E R		>	-IER,RZE
+
+	I E S		>	-IES,SA		#owies
+	I E S		>	-IES,SU
+	I E S		>	-IES,SEM
+	I E S		>	-IES,SIE
+
+	[^I] E N	>	-EN,NA		#bochen -> bochna
+	[^I] E N	>	-EN,NOWI
+	[^I] E N	>	-EN,NEM
+	[^IZ] E N	>	-EN,NIE
+	Z E N		>	-ZEN,¬NIE	#b³azen
+	
+	[^I] E L	>	-EL,LA		#bubel -> bubla
+	[^I] E L	>	-EL,LOWI
+	[^I] E L	>	-EL,LEM
+	[^I] E L	>	-EL,LU
+
+	I E L		>	-IEL,LA		#cyngiel
+	I E L		>	-IEL,LOWI
+	I E L		>	-IEL,LEM
+	I E L		>	-IEL,LU
+
+	[^I] E K	>	-EK,KA		#anio³ek-anio³ka
+	[^I] E K	>	-EK,KOWI
+	[^I] E K	>	-EK,KIEM
+	[^I] E K	>	-EK,KU
+
+	C I E K		>	-CIEK,ÆKA	#bociek
+	C I E K		>	-CIEK,ÆKOWI
+	C I E K		>	-CIEK,ÆKIEM
+	C I E K		>	-CIEK,ÆKU
+
+	N I E K		>	-NIEK,ÑKA	#ogieniek, pieniek
+	N I E K		>	-NIEK,ÑKOWI
+	N I E K		>	-NIEK,ÑKIEM
+	N I E K		>	-NIEK,ÑKU
+
+	S I E K		>	-SIEK,¦KA	#misiek
+	S I E K		>	-SIEK,¦KOWI
+	S I E K		>	-SIEK,¦KIEM
+	S I E K		>	-SIEK,¦KU
+
+	I E Æ		>	-IEÆ,CIA	#³okieæ
+	I E Æ		>	-IEÆ,CIOWI
+	I E Æ		>	-IEÆ,CIEM
+	I E Æ		>	-IEÆ,CIU
+
+	[^I] E Æ	>	-EÆ,CIA		#kapeæ
+	[^I] E Æ	>	-EÆ,CIOWI
+	[^I] E Æ	>	-EÆ,CIEM
+	[^I] E Æ	>	-EÆ,CIU
+
+	I E £		>	-IE£,£A		#kie³, szczygie³
+	I E £		>	-IE£,£OWI
+	I E £		>	-IE£,£EM
+	I E £		>	-IE£,LE
+
+	I E Z		>	-IEZ,ZA		#giez-gza
+	I E Z		>	-IEZ,ZOWI
+	I E Z		>	-IEZ,ZEM
+	I E Z		>	-IEZ,ZIE
+
+	[^R] Z E £	>	-E£,£A		#guze³
+	[^R] Z E £	>	-E£,£OWI
+	[^R] Z E £	>	-E£,£EM
+	[^R] Z E £	>	-ZE£,¬LE
+
+	R Z E £		>	-ZE£,£A		#karze³, orze³
+	R Z E £		>	-ZE£,£U
+	R Z E £		>	-ZE£,£EM
+	R Z E £		>	-ZE£,LE
+
+	R Z E C		>	-ZEC,CA		#dworzec
+	R Z E C		>	-ZEC,COWI
+	R Z E C		>	-ZEC,CEM
+	R Z E C		>	-ZEC,CU
+
+	[CS] Z E C	>	-EC,CA		#g³uszec, ³yszczec
+	[CS] Z E C	>	-EC,COWI
+	[CS] Z E C	>	-EC,CEM
+	[CS] Z E C	>	-EC,CU
+
+	[DJLP¯] E C	>	-EC,CA		#dzioboro¿ec, zakalec, kapec, kojec, ose³edec
+	[DJLP¯] E C	>	-EC,COWI
+	[DJLP¯] E C	>	-EC,CEM
+	[DJLP¯] E C	>	-EC,CU
+	
+	N I E C		>	-NIEC,ÑCA	#babiniec-babiñca
+	N I E C		>	-NIEC,ÑCOWI
+	N I E C		>	-NIEC,ÑCEM
+	N I E C		>	-NIEC,ÑCU
+	
+	[^CNSZ] I E C	>	-IEC,CA		#bankowiec -> bankowca
+	[^CNSZ] I E C	>	-IEC,COWI
+	[^CNSZ] I E C	>	-IEC,CEM
+	[^CNSZ] I E C	>	-IEC,CU
+
+	Z I E C		>	-ZIEC,¬CA	#bodziec -> bod¼ca
+	Z I E C		>	-ZIEC,¬COWI
+	Z I E C		>	-ZIEC,¬CEM
+	Z I E C		>	-ZIEC,¬CU
+
+	S I E C		>	-SIEC,¦CA	#brzusiec, Susiec
+	S I E C		>	-SIEC,¦COWI
+	S I E C		>	-SIEC,¦CEM
+	S I E C		>	-SIEC,¦CU
+	
+	J C I E C	>	-IEC,A		#ojciec -> ojca
+	J C I E C	>	-IEC,U
+	J C I E C	>	-IEC,EM
+	
+	[^J] C I E C	>	-CIEC,ÆCA	#kosaciec, kosaæca
+	[^J] C I E C	>	-CIEC,ÆCOWI
+	[^J] C I E C	>	-CIEC,ÆCEM
+	[^J] C I E C	>	-CIEC,ÆCU
+	
+	Ó B R		>	-ÓBR,OBRA	#bóbr
+	Ó B R		>	-ÓBR,OBROWI
+	Ó B R		>	-ÓBR,OBREM
+	Ó B R		>	-ÓBR,OBRZE
+
+	Ó R G		>	-ÓRG,ORGA	#mórg
+	Ó R G		>	-ÓRG,ORGOWI
+	Ó R G		>	-ÓRG,ORGIEM
+	Ó R G		>	-ÓRG,ORGU
+	
+	Ó B		>	-ÓB,OBA		#dziób
+	Ó B		>	-ÓB,OBOWI
+	Ó B		>	-ÓB,OBEM
+	Ó B		>	-ÓB,OBIE
+	
+	Ó D		>	-ÓD,ODA		#grzbietoród
+	Ó D		>	-ÓD,ODOWI
+	Ó D		>	-ÓD,ODEM
+	Ó D		>	-ÓD,ODZIE
+
+	Ó D Z		>	-ÓDZ,ODZA	#wódz
+	Ó D Z		>	-ÓDZ,ODZOWI
+	Ó D Z		>	-ÓDZ,ODZEM
+	Ó D Z		>	-ÓDZ,ODZU
+
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIA	#gwó¼d¼
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIOWI
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIEM
+	Ó ¬ D ¬		>	-Ó¬D¬,O¬DZIU
+
+	Ó G		>	-ÓG,OGA		#bóg
+	Ó G		>	-ÓG,OGOWI
+	Ó G		>	-ÓG,OGIEM
+	Ó G		>	-ÓG,OGU
+
+	Ó J		>	-ÓJ,OJA		#kozodój
+	Ó J		>	-ÓJ,OJOWI
+	Ó J		>	-ÓJ,OJEM
+	Ó J		>	-ÓJ,OJU
+
+	Ó L		>	-ÓL,OLA		#mól
+	Ó L		>	-ÓL,OLOWI
+	Ó L		>	-ÓL,OLEM
+	Ó L		>	-ÓL,OLU
+
+	Ó £		>	-Ó£,O£A		#ko¶ció³
+	Ó £		>	-Ó£,O£OWI
+	Ó £		>	-Ó£,O£EM
+	[^I] Ó £	>	-ÓL,OLE		#sokó³
+	C I Ó £		>	-Ó£,ELE
+	
+	Ó R		>	-ÓR,ORA		#upiór
+	Ó R		>	-ÓR,OROWI
+	Ó R		>	-ÓR,OREM
+	Ó R		>	-ÓR,ORZE
+
+	Ó T		>	-ÓT,OTA		#ko³owrót
+	Ó T		>	-ÓT,OTOWI
+	Ó T		>	-ÓT,OTEM
+	Ó T		>	-ÓT,OCIE
+
+	Ó W		>	-ÓW,OWA		#wygwizdów, krabo³ów
+	Ó W		>	-ÓW,OWOWI
+	Ó W		>	-ÓW,OWEM
+	Ó W		>	-ÓW,OWIE
+
+	Ó ¯		>	-Ó¯,O¯A		#nó¿
+	Ó ¯		>	-Ó¯,O¯OWI
+	Ó ¯		>	-Ó¯,O¯EM
+	Ó ¯		>	-Ó¯,O¯U
+	
+	A T		>	A		#¶wiat
+	A T		>	U
+	A T		>	EM
+	A T		>	-AT,CIE
+	
+	¡ B		>	-¡B,ÊBA		#z±b
+	¡ B		>	-¡B,ÊBOWI
+	¡ B		>	-¡B,ÊBEM
+	¡ B		>	-¡B,ÊBIE
+
+	
+	¡ D Z		>	-¡DZ,ÊDZA	#ksi±dz
+	¡ D Z		>	-¡DZ,ÊDZU
+	¡ D Z		>	-¡DZ,ÊDZEM
+
+	¡ Z		>	-¡Z,ÊZA		#paw±z
+	¡ Z		>	-¡Z,ÊZOWI
+	¡ Z		>	-¡Z,ÊZEM
+	¡ Z		>	-¡Z,ÊZIE
+
+	¡ ¯		>	-¡¯,Ê¯A		#m±¿
+	¡ ¯		>	-¡¯,Ê¯OWI
+	¡ ¯		>	-¡¯,Ê¯EM
+	¡ ¯		>	-¡¯,Ê¯U
+
+	[BPS¯] E £	>	-E£,£A		#diabe³, wy¿e³,
+						#supe³
+	[BPS¯] E £	>	-E£,£OWI
+	[BPS¯] E £	>	-E£,£EM
+	[BP¯] E £	>	-E£,LE
+	S E £		>	-SE£,¦LE	#pose³
+	
+	C I E Ñ		>	-CIEÑ,TNIA	#kwiecieñ
+	C I E Ñ		>	-CIEÑ,TNIOWI
+	C I E Ñ		>	-CIEÑ,TNIEM
+	C I E Ñ		>	-CIEÑ,TNIU
+
+	D E Ñ		>	-EÑ,NIA		#Wiedeñ
+	D E Ñ		>	-EÑ,NIOWI
+	D E Ñ		>	-EÑ,NIEM
+	D E Ñ		>	-EÑ,NIU
+
+	[GP] I E Ñ		>	-IEÑ,NIA	#pieñ
+	[GP] I E Ñ		>	-IEÑ,NIOWI
+	[GP] I E Ñ		>	-IEÑ,NIEM
+	[GP] I E Ñ		>	-IEÑ,NIU
+
+	S I E Ñ		>	-SIEÑ,¦NIA	#wrzesieñ
+	S I E Ñ		>	-SIEÑ,¦NIOWI
+	S I E Ñ		>	-SIEÑ,¦NIEM
+	S I E Ñ		>	-SIEÑ,¦NIU
+
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIA	#wiêzieñ
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIOWI
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIEM
+	[^D] Z I E Ñ	>	-ZIEÑ,¬NIU
+
+	D Z I E Ñ	>	-ZIEÑ,NIA	#dzieñ
+	D Z I E Ñ	>	-ZIEÑ,NIOWI
+	D Z I E Ñ	>	-ZIEÑ,NIEM
+	D Z I E Ñ	>	-ZIEÑ,NIU
+
+	[RTZ¯] E Ñ	>	-EÑ,NIA		#dureñ, truteñ, uczeñ, s±¿eñ
+	[RTZ¯] E Ñ	>	-EÑ,NIOWI
+	[RTZ¯] E Ñ	>	-EÑ,NIEM
+	[RTZ¯] E Ñ	>	-EÑ,NIU
+
+	C I O £		>	-CIO£,T£A	#kocio³
+	C I O £		>	-CIO£,T£U
+	C I O £		>	-CIO£,T£EM
+	C I O £		>	-CIO£,TLE
+
+	Z I O £		>	-ZIO£,Z£A	#kozio³
+	Z I O £		>	-ZIO£,Z£U
+	Z I O £		>	-ZIO£,Z£EM
+	Z I O £		>	-ZIO£,¬LE
+
+	S I O £		>	-IO£,£A		#osio³
+	S I O £		>	-IO£,£U
+	S I O £		>	-IO£,£EM
+	S I O £		>	-SIO£,¦LE
+	
+	£ O		>	-O,Y		#zapiewaj³o
+	£ O		>	-£O,LE
+	£ O		>	-O,EM

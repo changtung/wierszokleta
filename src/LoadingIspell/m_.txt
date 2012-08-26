@@ -1,0 +1,52 @@
+	O B A		>	-OBA,ÓB		#w±troba
+	O D A		>	-ODA,ÓD		#woda
+	O G A		>	-OGA,ÓG		#toga
+	O J A		>	-OJA,ÓJ		#zbroja
+	O L A		>	-OLA,ÓL		#rola
+	O £ A		>	-O£A,Ó£		#pszczo³a
+	O P A		>	-OPA,ÓP		#stopa
+	O R A		>	-ORA,ÓR		#pora
+	O T A		>	-OTA,ÓT		#cnota
+	O W A		>	-OWA,ÓW		#krowa
+	O Z A		>	-OZA,ÓZ		#koza
+	O ¯ A		>	-O¯A,Ó¯		#lo¿a
+	O D Z A		>	-ODZA,ÓDZ	#grodza
+	O R Z A		>	-ORZA,ÓRZ	#zorza
+	O ¦ B A		>	-O¦BA,Ó¦B	#pro¶ba
+	O ¬ B A		>	-O¬BA,Ó¬B	#gro¼ba
+	C I A		>	-CIA,Æ		#ciocia
+	M I A		>	-IA,-		#ziemia
+	[^DJH¦T] N I A	>	-NIA,Ñ		#babunia
+	T N I A		>	-NIA,EÑ		#lutnia
+	D N I A		>	-NIA,ZIEÑ	#studnia
+	[HJ] N I A	>	-NIA,EN		#kuchnia, stajnia
+	¦ N I A		>	-¦NIA,SIEN	#wi¶nia
+	S I A		>	-SIA,¦		#babusia
+	Z I A		>	-ZIA,¬		#buzia
+	Ê B A		>	-ÊBA,¡B		#ksiêga
+	[^ÊO¦¬] B A	>	-BA,EB		#torba
+	Ê G A		>	-ÊGA,¡G		#ksiêga
+	[^ÊO] G A	>	-GA,EG		#drzazga
+	N I		>	-NI,Ñ		#gospodyni, pani
+	[^ÆÊO¦Ñ¬] K A	>	-KA,EK		#kolbka
+	Æ K A		>	-ÆKA,CIEK	#paæka
+	Ê K A		>	-ÊKA,¡K		#rêka, mêka
+	¦ K A		>	-¦KA,SIEK
+	Ñ K A		>	-ÑKA,NIEK
+	¬ K A		>	-¬KA,ZIEK
+	[^O] L A	>	-LA,EL		#chochla
+	[^OGK] £ A	>	-£A,E£		#per³a, cios³a, jod³a
+	[GK] £ A	>	-£A,IE£		#ig³a, kuk³a
+	[^Æ] M A	>	-MA,EM		#ci¿ma
+	[MNW] N A	>	-NA,IEN		#trumna, panna, grzywna
+	[^MNOW] N A	>	-NA,EN		#wiosna, buziuchna
+	[^GKOT] R A	>	-RA,ER		#centra
+	O S T R A	>	-OSTRA,ÓSTR	#siostra
+	[GK] R A	>	-RA,IER		#gra, iskra
+	[^KO] W A	>	-WA,EW		#kotwa
+	K W A		>	-WA,IEW		#pluskwa
+	O R G A		>	-ORGA,ÓRG	#morga
+	[^O] C A	>	-CA,IEC		#owca
+	Æ M A		>	-ÆMA,CIEM	#æma
+	[^OÓ] ¯ A	>	-¯A,E¯		#kom¿a
+	[^DOÓ] Z A	>	-ZA,EZ		#³za

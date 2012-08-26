@@ -1,0 +1,27 @@
+	[GK] I E W		>	-IEW,WIE
+	[HNT] E W		>	-EW,WIE		#konew
+	[CIJL¯] A		>	-A,E
+	W N A			>	-A,E		#aptekarzówna
+	[CR] Z			>	E		#swo³ocz, twarz
+
+	[ABEÊIJOUY£L] Z A	>	-A,Y
+	[^ABEÊIJOUY£L] Z A	>	-A,E
+
+	[IY] N I		>	E
+	[CJ]			>	E		#moc, kolej
+	[^Ó] L			>	E		#grz±dziel
+	Ó L			>	-ÓL,OLE		#sól
+	[^¡D] ¬			>	-¬,ZIE
+	[^¡Ó] D ¬		>	-¬,ZIE
+	¡ D ¬			>	-¡D¬,ÊDZIE	#¿o³±d¼
+	Ó D ¬			>	-ÓD¬,ODZIE
+	¡ ¬			>	-¡¬,ÊZIE	#ga³±¼
+	[^E] Æ			>	-Æ,CIE		#p³oæ
+	[^H£] E Æ		>	-Æ,CIE
+	[H£] E Æ		>	-EÆ,CIE		#p³acheæ, p³eæ
+	[^¡] ¯			>	E
+	¡ ¯			>	-¡¯,Ê¯E		#uprz±¿
+	Ñ			>	-Ñ,NIE		#przyja¼ñ
+	[OU] ¦			>	-¦,SIE		#matu¶, o¶
+	[^I] E ¦		>	-¦,SIE		#przycie¶
+	W I E ¦			>	-IE¦,SIE

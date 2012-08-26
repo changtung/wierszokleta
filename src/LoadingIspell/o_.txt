@@ -1,0 +1,11 @@
+	[^AÆIOÑ¦Y¬]	>	OWIE		#in¿ynier
+	Æ		>	-Æ,CIOWIE	#ichmo¶æ, te¶æ
+	Ñ		>	-Ñ,NIOWIE	#
+	¦		>	-¦,SIOWIE	#
+	¬		>	-¬,ZIOWIE	#pa¼
+	[Z¯] Y		>	-Y,OWIE		#budowniczy, chor±¿y
+	[^L] I		>	OWIE		#podstaro¶ci
+	L I		>	-I,OWIE		#podstoli
+	O		>	WIE		#apollo
+	A		>	-A,OWIE		#baca
+

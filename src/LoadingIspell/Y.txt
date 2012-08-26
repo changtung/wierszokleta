@@ -1,0 +1,21 @@
+	[^CDH£NRTZ¯] Y	>	-Y,I		#!bia³y
+	D Y		>	-Y,ZI		#blady
+	G I 		> 	-GI,DZY		#nagi
+	K I		>	-KI,CY		#niebieski
+	[^Z] £ Y	>	-£Y,LI		#bia³y
+	[^S] Z £ Y	>	-Z£Y,¬LI	#zwiêz³y
+	S Z £ Y		>	-£Y,LI		#niedosz³y
+	[^W] O N Y	>	-ONY,ENI	#broniony
+	W O N Y		>	-Y,I		#czerwony
+	S N Y		>	-SNY,¦NI	#ciasny
+	S Z Y		>	-ZY,I		#szerszy
+	R Y		>	-Y,ZY		#ponury
+	¯ Y		>	-¯Y,ZI		#du¿y
+	[^SO] N Y	>	-Y,I		#wybrany
+	[^S] T Y	>	-TY,CI		#obdarty
+	S T Y		>	-STY,¦CI	#kanciasty
+	C H Y		>	-CHY,SI		#cichy
+	T E N		>	-TEN,CI		#tamten
+	T E N		>	-N,-		#tamten
+	D E N		>	-EN,NE		#jeden
+	D E N		>	-EN,NI		#jeden

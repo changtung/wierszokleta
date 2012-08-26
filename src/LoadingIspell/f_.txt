@@ -1,0 +1,22 @@
+	[^K£NT] A	>	-A,I
+	[^ÆÑ¦¬] K A	>	-KA,EK		#jase³ka, usteczka
+	£ A		>	-£A,E£		#gus³a
+	N A		>	-NA,EN		#¿arna
+	[^ÊO] T A	>	-A,-		#usta
+	O T A		>	-OTA,ÓT		#wrota
+	Ê T A		>	-ÊTA,¡T		#oczêta, karciêta
+	[^CIJL] E	>	-E,Y		#chaszcze
+	[JL] E		>	-E,I		#bambetle
+	[^N] I E	>	-E,I		#bakalie
+	N I E		>	-NIE,Ñ 		#sanie
+	P C E		>	-CE,IEC		#skrzypce
+	[ILRY] C E	>	-E,-		#sukiennice, Kielce
+	[^B£] Y		>	-Y,-		#Chiny
+	[^Ê] B Y	>	-Y,-
+	Ê B Y		>	-ÊBY,¡B		#otrêby
+	U £ Y		>	-Y,-		#floku³y
+	D £ Y		>	-£Y,E£		#kud³y, wid³y
+	[^ÆIÑO¦¬] K I	>	-KI,EK		#sanki, andrzejki
+	[IO] K I	>	-I,-		#bazyliki, zw³oki, czepigi
+	I G I		>	-I,-		#czepigi
+	Ñ K I		>	-ÑKI,NIEK	#spodeñki

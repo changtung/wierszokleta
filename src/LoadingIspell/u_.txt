@@ -1,0 +1,23 @@
+	[^¡Ó] [BPW]	>	IE		#czerw
+	[^¡Ó] [BPW]	>	I
+	[^¡Ó] [BPW]	>	IOM
+	[^¡Ó] [BPW]	>	IAMI
+	[^¡Ó] [BPW]	>	IACH
+
+	Ó W		>	-ÓW,OWIE	#tu³ów
+	Ó W		>	-ÓW,OWI
+	Ó W		>	-ÓW,OWIOM
+	Ó W		>	-ÓW,OWIAMI
+	Ó W		>	-ÓW,OWIACH
+
+	¡ B		>	-¡B,ÊBIE	#go³±b
+	¡ B		>	-¡B,ÊBI	
+	¡ B		>	-¡B,ÊBIOM
+	¡ B		>	-¡B,ÊBIAMI
+	¡ B		>	-¡B,ÊBIACH
+
+	¡ P		>	IE		#kr±p 
+	¡ P		>	I	
+	¡ P		>	IOM
+	¡ P		>	IAMI
+	¡ P		>	IACH

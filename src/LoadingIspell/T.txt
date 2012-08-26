@@ -1,0 +1,8 @@
+	
+	[^AÆOÑ¦¬]	>	ÓW		#in¿ynier
+	A		>	-A,ÓW		#artysta, oprawca
+	Æ		>	-Æ,CIÓW		#ichmo¶æ, te¶æ
+	Ñ		>	-Ñ,NIÓW		#
+	¦		>	-¦,SIÓW		#
+	¬		>	-¬,ZIÓW		#pa¼
+	O		>	-O,ÓW		#apollo

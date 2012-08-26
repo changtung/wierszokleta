@@ -1,0 +1,12 @@
+	[PT] E R	>	-ER,ROWIE	#filister
+	I E R		>	-IER,ROWIE	#szwagier
+	J C I E C	>	-IEC,OWIE	#ojciec
+	Ó D		>	-ÓD,ODOWIE	#powód
+	Ó G		>	-ÓG,OGOWIE	#bóg
+	Ó D Z		>	-ÓDZ,ODZOWIE	#wódz
+	¡ ¯		>	-¡¯,Ê¯OWIE	#m±¿
+	E £		>	-E£,£OWIE	#pose³
+	E K 		>	-EK,KOWIE	#braciszek
+	Z I E Ñ		>	-ZIEÑ,¬NIOWIE	#wiêzieñ
+	Z E Ñ		>	-EÑ,NIOWIE	#uczeñ
+	£ O		>	WIE		#zapiewaj³o

@@ -1,0 +1,20 @@
+	[^¡Ó] [BPW]	>	IA		#drop, karp, czerw, ¿ó³w,
+						#¿uraw
+	[^¡Ó] [BPW]	>	IOWI
+	[^¡Ó] [BPW]	>	IEM
+	[^¡Ó] [BPW]	>	IU
+
+	Ó W		>	-ÓW,OWIA	#tu³ów
+	Ó W		>	-ÓW,OWIOWI
+	Ó W		>	-ÓW,OWIEM
+	Ó W		>	-ÓW,OWIU
+
+	¡ B		>	-¡B,ÊBIA	#go³±b
+	¡ B		>	-¡B,ÊBIOWI
+	¡ B		>	-¡B,ÊBIEM
+	¡ B		>	-¡B,ÊBIU
+	
+	¡ P		>	IA		#kr±p
+	¡ P		>	IOWI
+	¡ P		>	IEM
+	¡ P		>	IU

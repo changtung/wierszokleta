@@ -1,0 +1,69 @@
+	[^N] A		>	-A,OM
+	[^DT¯] N A	>	-A,OM
+	[DT¯] N A	>	-A,YM
+	[^E] Æ		>	-Æ,CIOM		#!p³eæ
+	[^£] E Æ	>	-Æ,CIOM
+	£ E Æ		>	-EÆ,CIOM	#p³eæ
+	Ñ		>	-Ñ,NIOM
+	[GK]  I E W	>	-IEW,WIOM
+	C		>	OM
+	[^S] Z		>	OM
+	[^E] S Z	>	OM
+	E S Z		>	-ESZ,SZOM	#wszy
+	[^Ó] L		>	OM
+	Ó L		>	-ÓL,OLOM
+	[IY] N I	>	OM
+	[^D] ¬		>	-¬,ZIOM
+	[^Ó] D ¬	>	-¬,ZIOM
+	Ó D ¬		>	-ÓD¬,ODZIOM
+	R E W		>	-EW,WIOM
+	[^¡] ¯		>	OM
+	¡ ¯		>	-¡¯,Ê¯OM
+
+# narzêdnik lm.:
+	[^N] A		>	MI
+	[^DT¯] N A	>	MI
+	[DT¯] N A	>	-A,YMI
+	[^E] Æ		>	-Æ,CIAMI	#!p³eæ
+	[^£] E Æ	>	-Æ,CIAMI
+	£ E Æ		>	-EÆ,CIAMI	#p³eæ
+	Ñ		>	-Ñ,NIAMI
+	[GK] I E W	>	-IEW,WIAMI
+	C		>	AMI
+	[^S] Z		>	AMI
+	[^E] S Z	>	AMI
+	E S Z		>	-ESZ,SZAMI	#wszy
+	[^Ó] L		>	AMI
+	Ó L		>	-ÓL,OLAMI
+	[IY] N I	>	AMI
+	[^D] ¬		>	-¬,ZIAMI
+	[^Ó] D ¬	>	-¬,ZIAMI
+	Ó D ¬		>	-ÓD¬,ODZIAMI
+	R E W		>	-EW,WIAMI
+	[^¡] ¯		>	AMI
+	¡ ¯		>	-¡¯,Ê¯AMI
+
+# biernik lm.: podobnie jak mianownik lm.
+
+# miejscownik lm.:
+	[^N] A		>	CH
+	[^DT¯] N A	>	CH
+	[DT¯] N A	>	-A,YCH
+	[^E] Æ		>	-Æ,CIACH	#!p³eæ
+	[^£] E Æ	>	-Æ,CIACH
+	£ E Æ		>	-EÆ,CIACH	#p³eæ
+	Ñ		>	-Ñ,NIACH
+	[GK] I E W	>	-IEW,WIACH
+	C		>	ACH
+	[^S] Z		>	ACH
+	[^E] S Z	>	ACH
+	E S Z		>	-ESZ,SZACH	#wszy
+	[^Ó] L		>	ACH
+	Ó L		>	-ÓL,OLACH
+	[IY] N I	>	ACH
+	[^D] ¬		>	-¬,ZIACH
+	[^Ó] D ¬	>	-¬,ZIACH
+	Ó D ¬		>	-ÓD¬,ODZIACH
+	R E W		>	-EW,WIACH
+	[^¡] ¯		>	ACH
+	¡ ¯		>	-¡¯,Ê¯ACH

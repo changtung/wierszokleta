@@ -1,0 +1,25 @@
+	[^AÆÑO¦¬]	>	OM
+	¦		>	-¦,SIOM
+	Æ		>	-Æ,CIOM
+	Ñ		>	-Ñ,NIOM
+	¬		>	-¬,ZIOM
+	A		>	-A,OM
+	O		>	M
+
+# narzêdnik lm.:
+	[^AÆÑO¦¬]	>	AMI
+	¦		>	-¦,SIAMI
+	Æ		>	-Æ,CIAMI
+	Ñ		>	-Ñ,NIAMI
+	¬		>	-¬,ZIAMI
+	A		>	MI
+	O		>	-O,AMI
+
+# miejscownik lm.:
+	[^AÆÑO¦¬]	>	ACH
+	¦		>	-¦,SIACH
+	Æ		>	-Æ,CIACH
+	Ñ		>	-Ñ,NIACH
+	¬		>	-¬,ZIACH
+	A		>	CH
+	O		>	-O,ACH
